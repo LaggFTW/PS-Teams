@@ -1,0 +1,59 @@
+Keldeo @ Choice Specs
+Ability: Justified
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 3 Atk / 30 SpA
+- Hydro Pump
+- Secret Sword
+- Scald
+- Hidden Power [Electric]
+
+Landorus (M) @ Life Orb
+Ability: Sheer Force
+EVs: 4 Atk / 252 SpA / 252 Spe
+Naive Nature
+- Earth Power
+- Sludge Wave
+- Psychic
+- Knock Off
+
+Celebi @ Leftovers
+Ability: Natural Cure
+EVs: 252 HP / 240 SpD / 16 Spe
+Calm Nature
+IVs: 0 Atk
+- Psychic
+- Recover
+- Baton Pass
+- Substitute
+
+Scizor @ Scizorite
+Ability: Light Metal
+EVs: 248 HP / 16 Atk / 44 Def / 200 SpD
+Impish Nature
+- Bullet Punch
+- U-turn
+- Roost
+- Swords Dance
+
+Heatran @ Leftovers
+Ability: Flash Fire
+EVs: 248 HP / 192 SpD / 68 Spe
+Calm Nature
+IVs: 0 Atk
+- Lava Plume
+- Taunt
+- Stealth Rock
+- Toxic
+
+Zapdos @ Leftovers
+Ability: Pressure
+EVs: 248 HP / 252 Def / 8 SpA
+Bold Nature
+IVs: 0 Atk
+- Volt Switch
+- Heat Wave
+- Roost
+- Defog
+
+

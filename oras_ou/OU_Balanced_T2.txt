@@ -1,0 +1,58 @@
+Diancie @ Diancite
+Ability: Clear Body
+EVs: 16 Atk / 240 SpA / 252 Spe
+Hasty Nature
+- Moonblast
+- Diamond Storm
+- Earth Power
+- Protect
+
+Volcarona @ Passho Berry
+Ability: Flame Body
+EVs: 96 HP / 252 SpA / 160 Spe
+Modest Nature
+IVs: 0 Atk
+- Fire Blast
+- Bug Buzz
+- Giga Drain
+- Quiver Dance
+
+Azumarill @ Assault Vest
+Ability: Huge Power
+EVs: 240 HP / 252 Atk / 16 SpD
+Adamant Nature
+- Aqua Jet
+- Waterfall
+- Play Rough
+- Knock Off
+
+Celebi @ Leftovers
+Ability: Natural Cure
+EVs: 252 HP / 240 SpD / 16 Spe
+Calm Nature
+IVs: 0 Atk
+- Psychic
+- Recover
+- Baton Pass
+- Substitute
+
+Skarmory @ Leftovers
+Ability: Sturdy
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+IVs: 0 Atk
+- Toxic
+- Roost
+- Defog
+- Whirlwind
+
+Landorus-Therian (M) @ Leftovers
+Ability: Intimidate
+EVs: 252 HP / 252 Def / 4 Spe
+Impish Nature
+- Earthquake
+- Stone Edge
+- U-turn
+- Stealth Rock
+
+

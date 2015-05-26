@@ -1,0 +1,28 @@
+Diancie @ Diancite
+Ability: Clear Body
+EVs: 16 Atk / 240 SpA / 252 Spe
+Naive Nature
+- Moonblast
+- Diamond Storm
+- Earth Power
+- 
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 88 HP / 252 Atk / 168 Spe
+Jolly Nature
+- Brave Bird
+- Flare Blitz
+- Swords Dance
+- Roost
+
+Celebi @ Leftovers
+Ability: Natural Cure
+EVs: 252 HP / 240 SpD / 16 Spe
+Calm Nature
+- 
+- Recover
+- Baton Pass
+- Substitute
+
+

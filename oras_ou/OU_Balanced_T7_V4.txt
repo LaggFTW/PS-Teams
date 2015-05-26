@@ -1,0 +1,58 @@
+Azumarill @ Assault Vest
+Ability: Huge Power
+EVs: 240 HP / 252 Atk / 16 SpD
+Adamant Nature
+- Aqua Jet
+- Waterfall
+- Play Rough
+- Knock Off
+
+Landorus (M) @ Life Orb
+Ability: Sheer Force
+EVs: 4 Atk / 252 SpA / 252 Spe
+Rash Nature
+- Earth Power
+- Knock Off
+- Hidden Power [Ice]
+- Rock Polish
+
+Celebi @ Leftovers
+Ability: Natural Cure
+EVs: 252 HP / 240 SpD / 16 Spe
+Calm Nature
+IVs: 0 Atk
+- Giga Drain
+- Recover
+- Baton Pass
+- Substitute
+
+Scizor @ Scizorite
+Ability: Light Metal
+EVs: 248 HP / 44 Atk / 16 Def / 200 SpD
+Impish Nature
+- Bullet Punch
+- U-turn
+- Roost
+- Swords Dance
+
+Heatran @ Leftovers
+Ability: Flash Fire
+EVs: 248 HP / 192 SpD / 68 Spe
+Calm Nature
+IVs: 0 Atk
+- Lava Plume
+- Taunt
+- Stealth Rock
+- Toxic
+
+Zapdos @ Leftovers
+Ability: Pressure
+EVs: 248 HP / 252 Def / 8 SpA
+Bold Nature
+IVs: 0 Atk
+- Volt Switch
+- Heat Wave
+- Roost
+- Defog
+
+

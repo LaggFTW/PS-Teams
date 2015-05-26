@@ -1,0 +1,57 @@
+Azumarill @ Sitrus Berry
+Ability: Huge Power
+EVs: 92 HP / 252 Atk / 164 Spe
+Adamant Nature
+- Aqua Jet
+- Play Rough
+- Knock Off
+- Belly Drum
+
+Landorus (M) @ Life Orb
+Ability: Sheer Force
+EVs: 4 Atk / 252 SpA / 252 Spe
+Naive Nature
+- Earth Power
+- Sludge Wave
+- Psychic
+- Knock Off
+
+Celebi @ Leftovers
+Ability: Natural Cure
+EVs: 252 HP / 240 SpD / 16 Spe
+Calm Nature
+IVs: 0 Atk
+- Giga Drain
+- Recover
+- Baton Pass
+- Substitute
+
+Scizor @ Scizorite
+Ability: Light Metal
+EVs: 248 HP / 8 Atk / 252 Def
+Impish Nature
+- Bullet Punch
+- U-turn
+- Roost
+- Defog
+
+Heatran @ Leftovers
+Ability: Flash Fire
+EVs: 248 HP / 16 Atk / 192 SpD / 52 Spe
+Calm Nature
+- Lava Plume
+- Stone Edge
+- Stealth Rock
+- Roar
+
+Raikou @ Choice Specs
+Ability: Pressure
+EVs: 32 HP / 252 SpA / 224 Spe
+Timid Nature
+IVs: 2 Atk / 30 Def
+- Volt Switch
+- Thunderbolt
+- Shadow Ball
+- Hidden Power [Ice]
+
+

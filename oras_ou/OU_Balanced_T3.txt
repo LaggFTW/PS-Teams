@@ -1,0 +1,58 @@
+Scizor @ Scizorite
+Ability: Light Metal
+EVs: 252 HP / 4 Atk / 252 Def
+Impish Nature
+- Bullet Punch
+- U-turn
+- Roost
+- Defog
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Brave Bird
+- Flare Blitz
+- U-turn
+- Roost
+
+Azumarill @ Sitrus Berry
+Ability: Huge Power
+EVs: 92 HP / 252 Atk / 164 Spe
+Adamant Nature
+- Aqua Jet
+- Play Rough
+- Knock Off
+- Belly Drum
+
+Celebi @ Leftovers
+Ability: Natural Cure
+EVs: 252 HP / 240 SpD / 16 Spe
+Calm Nature
+IVs: 0 Atk
+- Psychic
+- Recover
+- Baton Pass
+- Substitute
+
+Rotom-Wash @ Leftovers
+Ability: Levitate
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 0 Atk
+- Volt Switch
+- Hydro Pump
+- Will-O-Wisp
+- Pain Split
+
+Landorus (M) @ Life Orb
+Ability: Sheer Force
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Earth Power
+- Sludge Wave
+- Psychic
+- Stealth Rock
+
+

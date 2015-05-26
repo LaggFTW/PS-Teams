@@ -1,0 +1,59 @@
+Scizor @ Scizorite
+Ability: Light Metal
+EVs: 248 HP / 8 Atk / 252 Def
+Impish Nature
+- Bullet Punch
+- U-turn
+- Roost
+- Defog
+
+Landorus (M) @ Life Orb
+Ability: Sheer Force
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Earth Power
+- Sludge Wave
+- Psychic
+- Calm Mind
+
+Keldeo @ Choice Scarf
+Ability: Justified
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 3 Atk / 30 SpA
+- Hydro Pump
+- Secret Sword
+- Scald
+- Hidden Power [Electric]
+
+Bisharp @ Assault Vest
+Ability: Defiant
+EVs: 64 HP / 252 Atk / 192 SpD
+Adamant Nature
+- Pursuit
+- Sucker Punch
+- Knock Off
+- Iron Head
+
+Rotom-Wash @ Leftovers
+Ability: Levitate
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 0 Atk
+- Volt Switch
+- Hydro Pump
+- Will-O-Wisp
+- Pain Split
+
+Celebi @ Leftovers
+Ability: Natural Cure
+EVs: 252 HP / 240 SpD / 16 Spe
+Calm Nature
+IVs: 0 Atk
+- Stealth Rock
+- Recover
+- Baton Pass
+- Substitute
+
+

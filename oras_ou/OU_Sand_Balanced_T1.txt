@@ -1,0 +1,59 @@
+Altaria @ Altarianite
+Ability: Natural Cure
+Happiness: 0
+EVs: 80 HP / 252 SpA / 176 Spe
+Timid Nature
+IVs: 0 Atk
+- Hyper Voice
+- Fire Blast
+- Agility
+- Roost
+
+Talonflame
+Ability: Gale Wings
+EVs: 248 HP / 252 SpD / 8 Spe
+Careful Nature
+- Acrobatics
+- Roost
+- Taunt
+- Bulk Up
+
+Celebi @ Leftovers
+Ability: Natural Cure
+EVs: 252 HP / 160 Def / 80 SpD / 16 Spe
+Calm Nature
+IVs: 0 Atk
+- Giga Drain
+- Recover
+- Baton Pass
+- Substitute
+
+Hippowdon @ Leftovers
+Ability: Sand Stream
+EVs: 252 HP / 144 Def / 112 SpD
+Impish Nature
+- Earthquake
+- Toxic
+- Slack Off
+- Stealth Rock
+
+Excadrill @ Air Balloon
+Ability: Sand Rush
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Earthquake
+- Iron Head
+- Rock Slide
+- Rapid Spin
+
+Slowbro @ Leftovers
+Ability: Regenerator
+EVs: 252 HP / 232 Def / 24 SpD
+Bold Nature
+IVs: 0 Atk
+- Scald
+- Ice Beam
+- Slack Off
+- Thunder Wave
+
+

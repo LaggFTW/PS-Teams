@@ -1,0 +1,59 @@
+Crab (Scizor) (F) @ Scizorite
+Ability: Light Metal
+EVs: 252 HP / 4 Atk / 252 Def
+Impish Nature
+- Bullet Punch
+- U-turn
+- Roost
+- Defog
+
+Oshino (Landorus) @ Life Orb
+Ability: Sheer Force
+EVs: 4 HP / 252 SAtk / 252 Spd
+Timid Nature
+IVs: 0 Atk
+- Earth Power
+- Sludge Wave
+- Psychic
+- Stealth Rock
+
+Ahoge (Keldeo) @ Choice Specs
+Ability: Justified
+EVs: 252 SAtk / 4 SDef / 252 Spd
+Timid Nature
+IVs: 0 Atk
+- Hydro Pump
+- Secret Sword
+- Scald
+- Icy Wind
+
+Snail (Celebi) @ Leftovers
+Ability: Natural Cure
+EVs: 252 HP / 240 SDef / 16 Spd
+Calm Nature
+IVs: 0 Atk
+- Psychic
+- Recover
+- Baton Pass
+- Substitute
+
+Bee (Rotom-Wash) @ Leftovers
+Ability: Levitate
+EVs: 252 HP / 4 SAtk / 252 SDef
+Calm Nature
+IVs: 0 Atk
+- Volt Switch
+- Hydro Pump
+- Will-O-Wisp
+- Pain Split
+
+Kaiki (Bisharp) (M) @ Assault Vest
+Ability: Defiant
+EVs: 252 HP / 252 Atk / 4 SDef
+Adamant Nature
+- Pursuit
+- Sucker Punch
+- Knock Off
+- Iron Head
+
+

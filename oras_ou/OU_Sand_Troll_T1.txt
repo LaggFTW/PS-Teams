@@ -1,0 +1,57 @@
+Aron @ Shell Bell
+Ability: Sturdy
+Level: 1
+EVs: 252 SpA / 252 Spe
+Timid Nature
+- Endeavor
+- Toxic
+- Hidden Power [Rock]
+- Protect
+
+Hippowdon @ Eject Button
+Ability: Sand Stream
+EVs: 248 HP / 8 Atk / 252 Def
+Impish Nature
+- Earthquake
+- Toxic
+- Slack Off
+- Stealth Rock
+
+Excadrill @ Life Orb
+Ability: Sand Rush
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Earthquake
+- Iron Head
+- Rock Slide
+- Rapid Spin
+
+Celebi @ Leftovers
+Ability: Natural Cure
+EVs: 252 HP / 240 SpD / 16 Spe
+Calm Nature
+IVs: 0 Atk
+- Giga Drain
+- Recover
+- Substitute
+- Baton Pass
+
+Bisharp @ Assault Vest
+Ability: Defiant
+EVs: 248 HP / 252 Atk / 8 SpD
+Adamant Nature
+- Pursuit
+- Sucker Punch
+- Knock Off
+- Iron Head
+
+Magnezone @ Choice Specs
+Ability: Magnet Pull
+EVs: 128 HP / 252 SpA / 128 Spe
+Modest Nature
+- Volt Switch
+- Thunderbolt
+- Flash Cannon
+- Hidden Power [Fire]
+
+

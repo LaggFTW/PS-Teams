@@ -1,0 +1,61 @@
+Altaria @ Altarianite
+Ability: Natural Cure
+Happiness: 0
+EVs: 248 HP / 136 Def / 96 SpD / 28 Spe
+Impish Nature
+- Frustration
+- Dragon Dance
+- Cotton Guard
+- Roost
+
+Volcarona @ Passho Berry
+Ability: Flame Body
+EVs: 72 HP / 252 SpA / 184 Spe
+Timid Nature
+IVs: 0 Atk
+- Fire Blast
+- Bug Buzz
+- Giga Drain
+- Quiver Dance
+
+Keldeo @ Choice Specs
+Ability: Justified
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Hydro Pump
+- Secret Sword
+- Scald
+- Icy Wind
+
+Zapdos @ Leftovers
+Ability: Pressure
+EVs: 248 HP / 252 Def / 8 SpA
+Bold Nature
+IVs: 0 Atk
+- Volt Switch
+- Heat Wave
+- Roost
+- Defog
+
+Celebi @ Leftovers
+Ability: Natural Cure
+EVs: 252 HP / 240 SpD / 16 Spe
+Calm Nature
+IVs: 0 Atk
+- Giga Drain
+- Recover
+- Baton Pass
+- Substitute
+
+Heatran @ Leftovers
+Ability: Flash Fire
+EVs: 252 HP / 4 SpA / 252 SpD
+Calm Nature
+IVs: 0 Atk
+- Lava Plume
+- Toxic
+- Stealth Rock
+- Roar
+
+

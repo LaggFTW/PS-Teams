@@ -1,0 +1,57 @@
+Scizor @ Scizorite
+Ability: Light Metal
+EVs: 248 HP / 8 Atk / 252 Def
+Impish Nature
+- Bullet Punch
+- U-turn
+- Roost
+- Defog
+
+Landorus (M) @ Life Orb
+Ability: Sheer Force
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Earth Power
+- Sludge Wave
+- Psychic
+- Calm Mind
+
+Keldeo @ Choice Scarf
+Ability: Justified
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 3 Atk / 30 SpA
+- Hydro Pump
+- Secret Sword
+- Scald
+- Hidden Power [Electric]
+
+Bisharp @ Assault Vest
+Ability: Defiant
+EVs: 64 HP / 252 Atk / 192 SpD
+Adamant Nature
+- Pursuit
+- Sucker Punch
+- Knock Off
+- Iron Head
+
+Garchomp @ Rocky Helmet
+Ability: Rough Skin
+EVs: 248 HP / 252 Atk / 8 SpD
+Serious Nature
+- Earthquake
+- Outrage
+- Swords Dance
+- Stealth Rock
+
+Talonflame @ Choice Band
+Ability: Gale Wings
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Brave Bird
+- Flare Blitz
+- U-turn
+- Tailwind
+
+

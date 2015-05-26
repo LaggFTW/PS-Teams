@@ -1,0 +1,10 @@
+Charizard @ Charizardite X
+Ability: Blaze
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Flare Blitz
+- Dragon Claw
+- Iron Tail
+- Dragon Dance
+
+

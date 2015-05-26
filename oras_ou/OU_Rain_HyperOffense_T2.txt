@@ -1,0 +1,57 @@
+Poitoed (Politoed) @ Damp Rock
+Ability: Drizzle
+EVs: 248 HP / 164 SpD / 96 Spe
+Calm Nature
+IVs: 0 Atk
+- Scald
+- Toxic
+- Encore
+- Rest
+
+Tornadus-Therian (M) @ Life Orb
+Ability: Regenerator
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Hurricane
+- Focus Blast
+- U-turn
+- Taunt
+
+Kingdra @ Life Orb
+Ability: Swift Swim
+EVs: 4 Def / 252 SpA / 252 Spe
+Modest Nature
+IVs: 0 Atk
+- Draco Meteor
+- Hydro Pump
+- Scald
+- Ice Beam
+
+Omastar @ Choice Specs
+Ability: Swift Swim
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Hydro Pump
+- Scald
+- Ice Beam
+- Knock Off
+
+Ferrothorn @ Leftovers
+Ability: Iron Barbs
+EVs: 252 HP / 88 Def / 168 SpD
+Relaxed Nature
+- Power Whip
+- Knock Off
+- Leech Seed
+- Stealth Rock
+
+Garchomp @ Garchompite
+Ability: Rough Skin
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Earthquake
+- Dragon Claw
+- Aqua Tail
+- Swords Dance
+
+

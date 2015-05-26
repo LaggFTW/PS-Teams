@@ -1,0 +1,57 @@
+Diancie @ Diancite
+Ability: Clear Body
+EVs: 4 Atk / 252 SpA / 252 Spe
+Naive Nature
+- Moonblast
+- Diamond Storm
+- Earth Power
+- Protect
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 88 HP / 252 Atk / 168 Spe
+Jolly Nature
+- Brave Bird
+- Flare Blitz
+- Swords Dance
+- Roost
+
+Amoonguss @ Black Sludge
+Ability: Regenerator
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 0 Atk
+- Giga Drain
+- Clear Smog
+- Foul Play
+- Spore
+
+Garchomp @ Focus Sash
+Ability: Rough Skin
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Earthquake
+- Outrage
+- Swords Dance
+- Stealth Rock
+
+Rotom-Wash @ Leftovers
+Ability: Levitate
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 0 Atk
+- Volt Switch
+- Hydro Pump
+- Will-O-Wisp
+- Pain Split
+
+Excadrill @ Assault Vest
+Ability: Mold Breaker
+EVs: 120 HP / 136 Atk / 252 SpD
+Adamant Nature
+- Earthquake
+- Iron Head
+- Rock Slide
+- Rapid Spin
+
+

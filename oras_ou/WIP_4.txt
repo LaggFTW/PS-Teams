@@ -1,0 +1,10 @@
+Tauros (M) @ Life Orb
+Ability: Sheer Force
+EVs: 4 Atk / 252 SpA / 252 Spe
+Naive Nature
+- Fire Blast
+- Ice Beam
+- Thunderbolt
+- Rock Slide
+
+

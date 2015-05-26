@@ -1,0 +1,58 @@
+Altaria @ Altarianite
+Ability: Cloud Nine
+Happiness: 0
+EVs: 248 HP / 136 Def / 96 SpD / 28 Spe
+Impish Nature
+- Frustration
+- Dragon Dance
+- Heal Bell
+- Roost
+
+Manaphy @ Wacan Berry
+Ability: Hydration
+EVs: 88 HP / 252 SpA / 168 Spe
+Timid Nature
+IVs: 2 Atk / 30 SpA / 30 Spe
+- Scald
+- Psychic
+- Hidden Power [Fire]
+- Tail Glow
+
+Celebi @ Leftovers
+Ability: Natural Cure
+EVs: 252 HP / 160 Def / 80 SpD / 16 Spe
+Calm Nature
+IVs: 0 Atk
+- Giga Drain
+- Recover
+- Baton Pass
+- Substitute
+
+Talonflame @ Leftovers
+Ability: Gale Wings
+EVs: 248 HP / 252 SpD / 8 Spe
+Careful Nature
+- Brave Bird
+- Roost
+- Taunt
+- Will-O-Wisp
+
+Scizor @ Leftovers
+Ability: Technician
+EVs: 248 HP / 84 Def / 176 SpD
+Impish Nature
+- Bullet Punch
+- U-turn
+- Roost
+- Defog
+
+Hippowdon @ Leftovers
+Ability: Sand Force
+EVs: 252 HP / 144 Def / 112 SpD
+Impish Nature
+- Earthquake
+- Stone Edge
+- Slack Off
+- Stealth Rock
+
+

@@ -1,0 +1,28 @@
+Metagross @ Metagrossite
+Ability: Clear Body
+EVs: 68 HP / 252 Atk / 188 Spe
+Adamant Nature
+- Bullet Punch
+- Meteor Mash
+- Zen Headbutt
+- Hammer Arm
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 88 HP / 252 Atk / 168 Spe
+Jolly Nature
+- Brave Bird
+- Flare Blitz
+- Swords Dance
+- Roost
+
+Dugtrio @ Focus Sash
+Ability: Arena Trap
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Earthquake
+- Reversal
+- Stealth Rock
+- Memento
+
+

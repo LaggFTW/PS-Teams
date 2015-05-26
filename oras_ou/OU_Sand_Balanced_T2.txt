@@ -1,0 +1,59 @@
+Mayoi (Altaria) (F) @ Altarianite
+Ability: Natural Cure
+Happiness: 0
+EVs: 248 HP / 136 Def / 96 SpD / 28 Spe
+Impish Nature
+- Frustration
+- Dragon Dance
+- Cotton Guard
+- Roost
+
+Tsukihi (Talonflame) (F)
+Ability: Gale Wings
+EVs: 248 HP / 252 SpD / 8 Spe
+Careful Nature
+- Acrobatics
+- Roost
+- Taunt
+- Bulk Up
+
+Acerola (Celebi) @ Leftovers
+Ability: Natural Cure
+Shiny: Yes
+EVs: 252 HP / 160 Def / 80 SpD / 16 Spe
+Calm Nature
+IVs: 0 Atk
+- Giga Drain
+- Recover
+- Baton Pass
+- Substitute
+
+Ahoge (Keldeo) @ Choice Specs
+Ability: Justified
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 3 Atk / 30 SpA
+- Hydro Pump
+- Secret Sword
+- Scald
+- Hidden Power [Electric]
+
+Kaiki (Tyranitar) (M) @ Leftovers
+Ability: Sand Stream
+EVs: 248 HP / 252 Def / 8 SpD
+Relaxed Nature
+- Crunch
+- Rock Slide
+- Ice Beam
+- Stealth Rock
+
+Kagenui (Excadrill) (F) @ Life Orb
+Ability: Sand Rush
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Earthquake
+- Iron Head
+- Rock Slide
+- Rapid Spin
+
+
