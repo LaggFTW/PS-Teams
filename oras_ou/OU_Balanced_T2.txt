@@ -1,58 +1,57 @@
 Diancie @ Diancite
 Ability: Clear Body
-EVs: 16 Atk / 240 SpA / 252 Spe
-Hasty Nature
+EVs: 4 Atk / 252 SpA / 252 Spe
+Naive Nature
 - Moonblast
 - Diamond Storm
 - Earth Power
 - Protect
 
-Volcarona @ Passho Berry
-Ability: Flame Body
-EVs: 96 HP / 252 SpA / 160 Spe
-Modest Nature
-IVs: 0 Atk
-- Fire Blast
-- Bug Buzz
-- Giga Drain
-- Quiver Dance
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 88 HP / 252 Atk / 168 Spe
+Jolly Nature
+- Brave Bird
+- Flare Blitz
+- Swords Dance
+- Roost
 
-Azumarill @ Assault Vest
-Ability: Huge Power
-EVs: 240 HP / 252 Atk / 16 SpD
-Adamant Nature
-- Aqua Jet
-- Waterfall
-- Play Rough
-- Knock Off
-
-Celebi @ Leftovers
-Ability: Natural Cure
-EVs: 252 HP / 240 SpD / 16 Spe
-Calm Nature
-IVs: 0 Atk
-- Psychic
-- Recover
-- Baton Pass
-- Substitute
-
-Skarmory @ Leftovers
-Ability: Sturdy
-EVs: 252 HP / 252 Def / 4 SpD
+Amoonguss @ Black Sludge
+Ability: Regenerator
+EVs: 252 HP / 252 Def / 4 SpA
 Bold Nature
 IVs: 0 Atk
-- Toxic
-- Roost
-- Defog
-- Whirlwind
+- Giga Drain
+- Clear Smog
+- Foul Play
+- Spore
 
-Landorus-Therian (M) @ Leftovers
-Ability: Intimidate
-EVs: 252 HP / 252 Def / 4 Spe
-Impish Nature
+Garchomp @ Focus Sash
+Ability: Rough Skin
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
 - Earthquake
-- Stone Edge
-- U-turn
+- Outrage
+- Swords Dance
 - Stealth Rock
+
+Rotom-Wash @ Leftovers
+Ability: Levitate
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 0 Atk
+- Volt Switch
+- Hydro Pump
+- Will-O-Wisp
+- Pain Split
+
+Excadrill @ Assault Vest
+Ability: Mold Breaker
+EVs: 120 HP / 136 Atk / 252 SpD
+Adamant Nature
+- Earthquake
+- Iron Head
+- Rock Slide
+- Rapid Spin
 
 
