@@ -28,8 +28,11 @@ Adamant Nature
 
 Garchomp @ Rocky Helmet
 Ability: Rough Skin
-
-Rotom-Wash @ Leftovers
-Ability: Levitate
+EVs: 252 HP / 164 Def / 92 Spe
+Impish Nature
+- Earthquake
+- Dragon Tail
+- Fire Blast
+- Stealth Rock
 
 
