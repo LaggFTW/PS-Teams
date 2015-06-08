@@ -1,0 +1,20 @@
+Charizard @ Charizardite X
+Ability: Blaze
+EVs: 144 HP / 252 Atk / 112 Spe
+Adamant Nature
+- Flare Blitz
+- Dragon Claw
+- Dragon Dance
+- Roost
+
+Wobbuffet @ Sitrus Berry
+Ability: Shadow Tag
+EVs: 52 HP / 232 Def / 224 SpD
+Bold Nature
+IVs: 0 Atk
+- Counter
+- Mirror Coat
+- Encore
+- Safeguard
+
+

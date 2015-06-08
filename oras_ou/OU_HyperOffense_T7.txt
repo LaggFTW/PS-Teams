@@ -1,0 +1,20 @@
+Diancie @ Diancite
+Ability: Clear Body
+EVs: 4 Atk / 252 SpA / 252 Spe
+Naive Nature
+- Moonblast
+- Diamond Storm
+- Earth Power
+- Protect
+
+Gothitelle @ Choice Scarf
+Ability: Shadow Tag
+EVs: 80 HP / 176 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Psychic
+- Thunderbolt
+- Rest
+- Trick
+
+

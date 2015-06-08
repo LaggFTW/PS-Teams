@@ -1,0 +1,20 @@
+Gyarados @ Gyaradosite
+Ability: Intimidate
+EVs: 8 HP / 252 Atk / 248 Spe
+Jolly Nature
+- Waterfall
+- Crunch
+- Dragon Dance
+- Substitute
+
+Dragalge @ Choice Specs
+Ability: Adaptability
+EVs: 200 HP / 252 SpA / 56 Spe
+Modest Nature
+IVs: 2 Atk / 30 SpA / 30 Spe
+- Draco Meteor
+- Sludge Wave
+- Scald
+- Hidden Power [Fire]
+
+

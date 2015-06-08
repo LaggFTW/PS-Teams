@@ -1,0 +1,32 @@
+Diancie @ Diancite
+Ability: Clear Body
+EVs: 4 Atk / 252 SpA / 252 Spe
+Naive Nature
+- Moonblast
+- Diamond Storm
+- Earth Power
+- Protect
+
+Wobbuffet @ Leftovers
+Ability: Shadow Tag
+EVs: 52 HP / 232 Def / 224 SpD
+Bold Nature
+IVs: 0 Atk
+- Counter
+- Mirror Coat
+- Encore
+- Safeguard
+
+Gyarados @ Cheri Berry
+Ability: Intimidate
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Waterfall
+- Bounce
+- Natural Gift
+- Dragon Dance
+
+Garchomp @ Rocky Helmet
+Ability: Rough Skin
+
+

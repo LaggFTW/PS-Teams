@@ -19,12 +19,12 @@ Adamant Nature
 
 Kingdra @ Life Orb
 Ability: Swift Swim
-EVs: 64 Atk / 252 SpA / 192 Spe
+EVs: 28 Atk / 252 SpA / 228 Spe
 Rash Nature
 - Draco Meteor
 - Hydro Pump
+- Scald
 - Outrage
-- Waterfall
 
 Tornadus-Therian (M) @ Assault Vest
 Ability: Regenerator
@@ -49,6 +49,7 @@ Altaria @ Altarianite
 Ability: Cloud Nine
 EVs: 248 HP / 104 Def / 156 SpD
 Bold Nature
+IVs: 0 Atk
 - Hyper Voice
 - Perish Song
 - Heal Bell

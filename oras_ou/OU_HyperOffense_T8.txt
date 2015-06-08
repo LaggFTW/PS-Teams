@@ -1,0 +1,20 @@
+Gyarados @ Gyaradosite
+Ability: Intimidate
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Waterfall
+- Crunch
+- Stone Edge
+- Dragon Dance
+
+Gothitelle @ Choice Specs
+Ability: Shadow Tag
+EVs: 84 HP / 252 SpA / 172 Spe
+Modest Nature
+IVs: 2 Atk / 30 SpA / 30 Spe
+- Psychic
+- Thunderbolt
+- Hidden Power [Fire]
+- Trick
+
+
