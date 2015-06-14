@@ -1,0 +1,58 @@
+Charizard @ Charizardite X
+Ability: Blaze
+EVs: 144 HP / 252 Atk / 112 Spe
+Adamant Nature
+- Flare Blitz
+- Dragon Claw
+- Dragon Dance
+- Roost
+
+Tornadus-Therian (M) @ Assault Vest
+Ability: Regenerator
+EVs: 96 HP / 160 SpA / 252 Spe
+Timid Nature
+- Hurricane
+- Heat Wave
+- Knock Off
+- U-turn
+
+Clefable @ Leftovers
+Ability: Unaware
+EVs: 248 HP / 128 Def / 132 SpD
+Bold Nature
+IVs: 0 Atk
+- Moonblast
+- Heal Bell
+- Wish
+- Protect
+
+Hippowdon @ Leftovers
+Ability: Sand Stream
+EVs: 252 HP / 144 Def / 112 SpD
+Impish Nature
+- Earthquake
+- Stone Edge
+- Stealth Rock
+- Slack Off
+
+Ferrothorn @ Leftovers
+Ability: Iron Barbs
+EVs: 252 HP / 88 Def / 168 SpD
+Relaxed Nature
+IVs: 0 Spe
+- Power Whip
+- Gyro Ball
+- Leech Seed
+- Protect
+
+Starmie @ Leftovers
+Ability: Natural Cure
+EVs: 248 HP / 16 SpD / 244 Spe
+Timid Nature
+IVs: 0 Atk
+- Scald
+- Recover
+- Rapid Spin
+- Reflect Type
+
+
