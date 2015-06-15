@@ -1,0 +1,30 @@
+Pinsir @ Pinsirite
+Ability: Hyper Cutter
+Happiness: 0
+EVs: 252 Atk / 4 Def / 252 Spe
+Adamant Nature
+- Frustration
+- Feint
+- Close Combat
+- Swords Dance
+
+Starmie @ Life Orb
+Ability: Analytic
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Hydro Pump
+- Psyshock
+- Hidden Power [Fire]
+- Rapid Spin
+
+Weavile @ Life Orb
+Ability: Pressure
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+IVs: 29 HP
+- Ice Shard
+- Icicle Crash
+- Knock Off
+- Low Kick
+
+

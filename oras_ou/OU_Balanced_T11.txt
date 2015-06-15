@@ -1,0 +1,59 @@
+Sableye @ Sablenite
+Ability: Prankster
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+IVs: 0 Atk
+- Shadow Ball
+- Recover
+- Calm Mind
+- Will-O-Wisp
+
+Talonflame @ Leftovers
+Ability: Gale Wings
+EVs: 248 HP / 40 Atk / 220 SpD
+Careful Nature
+- Brave Bird
+- Roost
+- Taunt
+- Will-O-Wisp
+
+Clefable @ Leftovers
+Ability: Unaware
+EVs: 252 HP / 164 Def / 92 SpD
+Calm Nature
+IVs: 0 Atk
+- Moonblast
+- Heal Bell
+- Wish
+- Protect
+
+Hippowdon @ Rocky Helmet
+Ability: Sand Stream
+EVs: 252 HP / 192 Def / 64 SpD
+Impish Nature
+- Earthquake
+- Stone Edge
+- Stealth Rock
+- Slack Off
+
+Ferrothorn @ Leftovers
+Ability: Iron Barbs
+EVs: 252 HP / 100 Def / 156 SpD
+Sassy Nature
+IVs: 0 Spe
+- Power Whip
+- Knock Off
+- Leech Seed
+- Protect
+
+Starmie @ Leftovers
+Ability: Natural Cure
+EVs: 248 HP / 20 Def / 16 SpD / 224 Spe
+Timid Nature
+IVs: 0 Atk
+- Scald
+- Recover
+- Rapid Spin
+- Reflect Type
+
+
