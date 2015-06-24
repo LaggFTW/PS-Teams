@@ -1,0 +1,20 @@
+Altaria @ Altarianite
+Ability: Natural Cure
+Happiness: 0
+EVs: 248 HP / 136 Def / 96 SpD / 28 Spe
+Impish Nature
+- Frustration
+- Dragon Dance
+- Heal Bell
+- Roost
+
+Feraligatr @ Life Orb
+Ability: Sheer Force
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Waterfall
+- Crunch
+- Superpower
+- Dragon Dance
+
+

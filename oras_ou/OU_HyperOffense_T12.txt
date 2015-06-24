@@ -1,0 +1,29 @@
+Gardevoir @ Gardevoirite
+Ability: Trace
+EVs: 24 Def / 232 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Hyper Voice
+- Psyshock
+- Focus Blast
+- Taunt
+
+Weavile @ Life Orb
+Ability: Pressure
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Ice Shard
+- Icicle Crash
+- Knock Off
+- Pursuit
+
+Garchomp @ Rocky Helmet
+Ability: Rough Skin
+EVs: 252 HP / 164 Def / 92 Spe
+Impish Nature
+- Earthquake
+- Dragon Tail
+- Fire Blast
+- Stealth Rock
+
+
