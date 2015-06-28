@@ -1,10 +1,20 @@
-Hippowdon @ Leftovers
-Ability: Sand Stream
+Metagross @ Metagrossite
+Ability: Clear Body
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Meteor Mash
+- Zen Headbutt
+- Hammer Arm
+- Grass Knot
 
-Ferrothorn @ Leftovers
-Ability: Iron Barbs
-
-Starmie @ Leftovers
-Ability: Natural Cure
+Thundurus (M) @ Life Orb
+Ability: Prankster
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 2 Atk / 30 Def
+- Thunderbolt
+- Hidden Power [Ice]
+- Nasty Plot
+- Thunder Wave
 
 
