@@ -1,0 +1,30 @@
+Venusaur @ Venusaurite
+Ability: Overgrow
+EVs: 248 HP / 236 SpA / 24 Spe
+Modest Nature
+IVs: 2 Atk / 30 SpA / 30 Spe
+- Giga Drain
+- Sludge Bomb
+- Hidden Power [Fire]
+- Synthesis
+
+Weavile @ Life Orb
+Ability: Pressure
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Ice Shard
+- Icicle Crash
+- Knock Off
+- Low Kick
+
+Manaphy @ Leftovers
+Ability: Hydration
+EVs: 4 Def / 252 SpA / 252 Spe
+Modest Nature
+IVs: 0 Atk
+- Scald
+- Psychic
+- Shadow Ball
+- Tail Glow
+
+

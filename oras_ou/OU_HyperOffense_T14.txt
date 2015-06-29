@@ -1,0 +1,19 @@
+Charizard @ Charizardite X
+Ability: Blaze
+EVs: 144 HP / 252 Atk / 112 Spe
+Adamant Nature
+- Flare Blitz
+- Outrage
+- Swords Dance
+- Tailwind
+
+Feraligatr @ Life Orb
+Ability: Sheer Force
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Waterfall
+- Crunch
+- Ice Punch
+- Dragon Dance
+
+

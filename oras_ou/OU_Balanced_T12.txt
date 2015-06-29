@@ -9,8 +9,8 @@ Careful Nature
 
 Kyurem-Black @ Life Orb
 Ability: Teravolt
-EVs: 56 Atk / 252 SpA / 200 Spe
-Rash Nature
+EVs: 20 Atk / 252 SpA / 236 Spe
+Mild Nature
 - Ice Beam
 - Earth Power
 - Fusion Bolt
