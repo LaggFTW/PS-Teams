@@ -26,4 +26,31 @@ IVs: 0 Atk
 - Recover
 - Reflect Type
 
+Talonflame @ Leftovers
+Ability: Gale Wings
+EVs: 88 HP / 252 Atk / 168 Spe
+Jolly Nature
+- Brave Bird
+- Flare Blitz
+- Swords Dance
+- Roost
+
+Hippowdon @ Leftovers
+Ability: Sand Stream
+EVs: 252 HP / 144 Def / 112 SpD
+Impish Nature
+- Earthquake
+- Stone Edge
+- Stealth Rock
+- Slack Off
+
+Jirachi @ Leftovers
+Ability: Serene Grace
+EVs: 252 HP / 224 SpD / 32 Spe
+Careful Nature
+- Iron Head
+- Body Slam
+- Wish
+- Protect
+
 
