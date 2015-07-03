@@ -1,0 +1,58 @@
+Beedrill @ Beedrillite
+Ability: Sniper
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- U-turn
+- Poison Jab
+- Knock Off
+- Protect
+
+Magnezone @ Choice Specs
+Ability: Magnet Pull
+EVs: 168 HP / 252 SpA / 88 Spe
+Modest Nature
+IVs: 2 Atk / 30 SpA / 30 Spe
+- Volt Switch
+- Thunderbolt
+- Flash Cannon
+- Hidden Power [Fire]
+
+Kingdra @ Scope Lens
+Ability: Sniper
+EVs: 4 Def / 252 SpA / 252 Spe
+Modest Nature
+IVs: 0 Atk
+- Draco Meteor
+- Hydro Pump
+- Focus Energy
+- Agility
+
+Landorus-Therian @ Leftovers
+Ability: Intimidate
+EVs: 252 HP / 240 Def / 8 SpD / 8 Spe
+Impish Nature
+- Earthquake
+- Stone Edge
+- U-turn
+- Stealth Rock
+
+Mew @ Colbur Berry
+Ability: Synchronize
+EVs: 252 HP / 148 Def / 108 Spe
+Impish Nature
+- Low Kick
+- Will-O-Wisp
+- Roost
+- Defog
+
+Sylveon @ Leftovers
+Ability: Pixilate
+EVs: 252 HP / 244 Def / 12 Spe
+Bold Nature
+IVs: 0 Atk
+- Hyper Voice
+- Calm Mind
+- Rest
+- Sleep Talk
+
+

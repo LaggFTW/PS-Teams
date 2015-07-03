@@ -1,0 +1,26 @@
+Lopunny @ Lopunnite
+Ability: Limber
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Return
+- High Jump Kick
+- Focus Punch
+- Encore
+
+Heatran @ Power Herb
+Ability: Flash Fire
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Magma Storm
+- Solar Beam
+- Earth Power
+- Taunt
+
+Weavile @ Life Orb
+Ability: Pressure
+
+Latias (F) @ Life Orb
+Ability: Levitate
+
+
