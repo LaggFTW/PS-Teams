@@ -5,16 +5,54 @@ Jolly Nature
 - Waterfall
 - Crunch
 - Dragon Dance
-- Substitute
+- Taunt
 
 Dragalge @ Choice Specs
 Ability: Adaptability
-EVs: 200 HP / 252 SpA / 56 Spe
+EVs: 224 HP / 252 SpA / 32 Spe
 Modest Nature
 IVs: 2 Atk / 30 SpA / 30 Spe
 - Draco Meteor
 - Sludge Wave
 - Scald
 - Hidden Power [Fire]
+
+Clefable @ Leftovers
+Ability: Unaware
+EVs: 252 HP / 164 Def / 92 SpD
+Calm Nature
+IVs: 0 Atk
+- Moonblast
+- Heal Bell
+- Wish
+- Protect
+
+Hippowdon @ Leftovers
+Ability: Sand Stream
+EVs: 252 HP / 192 Def / 64 SpD
+Impish Nature
+- Earthquake
+- Stone Edge
+- Stealth Rock
+- Slack Off
+
+Skarmory @ Leftovers
+Ability: Sturdy
+EVs: 248 HP / 252 SpD / 8 Spe
+Careful Nature
+- Iron Head
+- Roost
+- Defog
+- Whirlwind
+
+Raikou @ Assault Vest
+Ability: Pressure
+EVs: 252 SpA / 16 SpD / 240 Spe
+Timid Nature
+IVs: 2 Atk / 30 Def
+- Volt Switch
+- Thunderbolt
+- Shadow Ball
+- Hidden Power [Ice]
 
 
