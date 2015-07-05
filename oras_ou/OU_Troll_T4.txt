@@ -1,0 +1,28 @@
+Lopunny @ Lopunnite
+Ability: Limber
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Fake Out
+- Return
+- High Jump Kick
+- Healing Wish
+
+Azumarill @ Sitrus Berry
+Ability: Huge Power
+EVs: 92 HP / 252 Atk / 164 Spe
+Adamant Nature
+- Aqua Jet
+- Play Rough
+- Knock Off
+- Belly Drum
+
+Darmanitan @ Salac Berry
+Ability: Sheer Force
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Fire Punch
+- Rock Slide
+- Earthquake
+- Belly Drum
+
+

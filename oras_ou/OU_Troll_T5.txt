@@ -1,0 +1,28 @@
+Charizard @ Charizardite Y
+Ability: Blaze
+EVs: 4 Atk / 252 SpA / 252 Spe
+Hasty Nature
+- Fire Blast
+- Solar Beam
+- Earthquake
+- Roost
+
+Talonflame @ Leftovers
+Ability: Gale Wings
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Brave Bird
+- Flare Blitz
+- Roost
+- Tailwind
+
+Darmanitan @ Life Orb
+Ability: Sheer Force
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Flare Blitz
+- Superpower
+- Earthquake
+- Rock Slide
+
+

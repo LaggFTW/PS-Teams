@@ -1,0 +1,58 @@
+Landorus-Therian (M) @ Expert Belt
+Ability: Intimidate
+EVs: 4 Def / 252 SpA / 252 Spe
+Rash Nature
+- Grass Knot
+- Earthquake
+- Focus Blast
+- Hidden Power [Ice]
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 88 HP / 252 Atk / 168 Spe
+Jolly Nature
+- Swords Dance
+- Brave Bird
+- Flare Blitz
+- Roost
+
+Latias (F) @ Life Orb
+Ability: Levitate
+EVs: 72 HP / 184 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Psyshock
+- Draco Meteor
+- Recover
+- Healing Wish
+
+Starmie @ Leftovers
+Ability: Natural Cure
+EVs: 36 HP / 252 SpA / 216 Spe
+Timid Nature
+IVs: 0 Atk
+- Thunderbolt
+- Scald
+- Rapid Spin
+- Ice Beam
+
+Scizor @ Scizorite
+Ability: Light Metal
+EVs: 248 HP / 8 Atk / 252 Def
+Impish Nature
+- Roost
+- Knock Off
+- U-turn
+- Bullet Punch
+
+Heatran @ Leftovers
+Ability: Flash Fire
+EVs: 252 HP / 4 SpA / 252 SpD
+Calm Nature
+IVs: 0 Atk
+- Stealth Rock
+- Lava Plume
+- Toxic
+- Roar
+
+
