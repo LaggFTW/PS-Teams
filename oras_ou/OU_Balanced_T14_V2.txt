@@ -24,7 +24,7 @@ Timid Nature
 IVs: 0 Atk
 - Scald
 - Psychic
-- Shadow Ball
+- Energy Ball
 - Tail Glow
 
 Talonflame @ Leftovers
