@@ -26,4 +26,13 @@ Impish Nature
 - Fire Blast
 - Stealth Rock
 
+Jirachi @ Choice Scarf
+Ability: Serene Grace
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Iron Head
+- Fire Punch
+- U-turn
+- Healing Wish
+
 

@@ -1,0 +1,30 @@
+Keldeo @ Choice Specs
+Ability: Justified
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Hydro Pump
+- Secret Sword
+- Scald
+- Icy Wind
+
+Bisharp @ Assault Vest
+Ability: Defiant
+EVs: 160 HP / 252 Atk / 96 Spe
+Adamant Nature
+- Pursuit
+- Sucker Punch
+- Knock Off
+- Iron Head
+
+Gothitelle @ Choice Scarf
+Ability: Shadow Tag
+EVs: 80 HP / 176 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Psychic
+- Thunderbolt
+- Trick
+- Rest
+
+
