@@ -1,0 +1,58 @@
+Gyarados @ Gyaradosite
+Ability: Intimidate
+EVs: 8 HP / 252 Atk / 248 Spe
+Jolly Nature
+- Waterfall
+- Crunch
+- Dragon Dance
+- Taunt
+
+Dragalge @ Choice Specs
+Ability: Adaptability
+EVs: 224 HP / 252 SpA / 32 Spe
+Modest Nature
+IVs: 2 Atk / 30 SpA / 30 Spe
+- Draco Meteor
+- Sludge Wave
+- Scald
+- Hidden Power [Fire]
+
+Clefable @ Leftovers
+Ability: Unaware
+EVs: 252 HP / 164 Def / 92 SpD
+Calm Nature
+IVs: 0 Atk
+- Moonblast
+- Heal Bell
+- Wish
+- Protect
+
+Hippowdon @ Leftovers
+Ability: Sand Stream
+EVs: 252 HP / 192 Def / 64 SpD
+Impish Nature
+- Earthquake
+- Stone Edge
+- Stealth Rock
+- Slack Off
+
+Jirachi @ Choice Scarf
+Ability: Serene Grace
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Iron Head
+- Zen Headbutt
+- U-turn
+- Healing Wish
+
+Zapdos @ Leftovers
+Ability: Pressure
+EVs: 248 HP / 252 Def / 8 SpA
+Bold Nature
+IVs: 0 Atk
+- Volt Switch
+- Heat Wave
+- Roost
+- Defog
+
+
