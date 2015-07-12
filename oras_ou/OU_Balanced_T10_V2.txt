@@ -12,7 +12,7 @@ Ability: Regenerator
 EVs: 96 HP / 160 SpA / 252 Spe
 Timid Nature
 - Hurricane
-- Heat Wave
+- Hidden Power [Ice]
 - Knock Off
 - U-turn
 
