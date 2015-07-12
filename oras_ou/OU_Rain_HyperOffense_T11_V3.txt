@@ -1,0 +1,58 @@
+Poitoed (Politoed) @ Damp Rock
+Ability: Drizzle
+EVs: 248 HP / 164 SpD / 96 Spe
+Calm Nature
+IVs: 0 Atk
+- Scald
+- Toxic
+- Encore
+- Rest
+
+Kingdra @ Choice Specs
+Ability: Swift Swim
+EVs: 4 Def / 252 SpA / 252 Spe
+Modest Nature
+IVs: 0 Atk
+- Draco Meteor
+- Hydro Pump
+- Scald
+- Ice Beam
+
+Toxicroak @ Life Orb
+Ability: Dry Skin
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Gunk Shot
+- Drain Punch
+- Sucker Punch
+- Swords Dance
+
+Scizor @ Scizorite
+Ability: Light Metal
+EVs: 248 HP / 44 Atk / 16 Def / 200 SpD
+Impish Nature
+- Bullet Punch
+- U-turn
+- Swords Dance
+- Roost
+
+Landorus-Therian (M) @ Leftovers
+Ability: Intimidate
+EVs: 252 HP / 240 Def / 8 SpD / 8 Spe
+Impish Nature
+- Earthquake
+- Stone Edge
+- U-turn
+- Stealth Rock
+
+Raikou @ Choice Scarf
+Ability: Pressure
+EVs: 104 HP / 252 SpA / 152 Spe
+Timid Nature
+IVs: 2 Atk / 30 Def
+- Volt Switch
+- Thunderbolt
+- Hidden Power [Ice]
+- Rain Dance
+
+
