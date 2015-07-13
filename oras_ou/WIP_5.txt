@@ -1,10 +1,20 @@
-Charizard @ Charizardite X
-Ability: Blaze
-EVs: 252 Atk / 4 SpD / 252 Spe
-Adamant Nature
-- Flare Blitz
-- Dragon Claw
-- Iron Tail
-- Dragon Dance
+Diancie @ Diancite
+Ability: Clear Body
+EVs: 4 Atk / 252 SpA / 252 Spe
+Naive Nature
+- Moonblast
+- Diamond Storm
+- Earth Power
+- Protect
+
+Celebi @ Leftovers
+Ability: Natural Cure
+EVs: 252 HP / 240 SpD / 16 Spe
+Calm Nature
+IVs: 0 Atk
+- Giga Drain
+- Recover
+- Baton Pass
+- Substitute
 
 
