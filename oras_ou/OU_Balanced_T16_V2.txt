@@ -1,0 +1,58 @@
+Gardevoir (F) @ Gardevoirite
+Ability: Trace
+EVs: 24 Def / 232 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Hyper Voice
+- Psyshock
+- Focus Blast
+- Taunt
+
+Talonflame @ Leftovers
+Ability: Gale Wings
+EVs: 248 HP / 64 Atk / 196 SpD
+Careful Nature
+- Brave Bird
+- Roost
+- Taunt
+- Will-O-Wisp
+
+Garchomp @ Rocky Helmet
+Ability: Rough Skin
+EVs: 252 HP / 164 Def / 92 Spe
+Impish Nature
+- Earthquake
+- Dragon Tail
+- Fire Blast
+- Stealth Rock
+
+Shaymin @ Leftovers
+Ability: Natural Cure
+EVs: 248 HP / 148 SpD / 112 Spe
+Calm Nature
+IVs: 2 Atk / 30 SpA / 30 Spe
+- Seed Flare
+- Hidden Power [Fire]
+- Leech Seed
+- Healing Wish
+
+Scizor @ Scizorite
+Ability: Technician
+EVs: 248 HP / 60 Def / 200 SpD
+Impish Nature
+- Bullet Punch
+- U-turn
+- Roost
+- Defog
+
+Rotom-Wash @ Leftovers
+Ability: Levitate
+EVs: 248 HP / 252 Def / 8 SpD
+Bold Nature
+IVs: 0 Atk
+- Volt Switch
+- Hydro Pump
+- Will-O-Wisp
+- Pain Split
+
+
