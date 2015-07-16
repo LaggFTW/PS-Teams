@@ -1,0 +1,57 @@
+Charizard @ Charizardite X
+Ability: Blaze
+EVs: 72 HP / 220 Atk / 216 Spe
+Jolly Nature
+- Flare Blitz
+- Dragon Claw
+- Dragon Dance
+- Roost
+
+Feraligatr @ Life Orb
+Ability: Sheer Force
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Waterfall
+- Crunch
+- Ice Punch
+- Dragon Dance
+
+Celebi @ Leftovers
+Ability: Natural Cure
+EVs: 252 HP / 148 Def / 108 Spe
+Bold Nature
+IVs: 0 Atk
+- Giga Drain
+- Recover
+- Baton Pass
+- Healing Wish
+
+Klefki @ Leftovers
+Ability: Prankster
+EVs: 248 HP / 252 Def / 8 SpA
+Bold Nature
+IVs: 0 Atk
+- Dazzling Gleam
+- Spikes
+- Thunder Wave
+- Heal Block
+
+Hippowdon @ Leftovers
+Ability: Sand Stream
+EVs: 252 HP / 192 Def / 64 SpD
+Impish Nature
+- Earthquake
+- Stone Edge
+- Stealth Rock
+- Slack Off
+
+Excadrill @ Life Orb
+Ability: Sand Rush
+EVs: 252 Atk / 4 Def / 252 Spe
+Adamant Nature
+- Earthquake
+- Iron Head
+- Rock Slide
+- Rapid Spin
+
+

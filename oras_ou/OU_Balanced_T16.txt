@@ -1,4 +1,4 @@
-Gardevoir (F) @ Gardevoirite
+Snake (Gardevoir) (F) @ Gardevoirite
 Ability: Trace
 EVs: 24 Def / 232 SpA / 252 Spe
 Timid Nature
@@ -8,7 +8,7 @@ IVs: 0 Atk
 - Focus Blast
 - Taunt
 
-Talonflame @ Leftovers
+Phoenix (Talonflame) (F) @ Leftovers
 Ability: Gale Wings
 EVs: 248 HP / 64 Atk / 196 SpD
 Careful Nature
@@ -17,7 +17,7 @@ Careful Nature
 - Taunt
 - Will-O-Wisp
 
-Garchomp @ Rocky Helmet
+Ragi (Garchomp) (M) @ Rocky Helmet
 Ability: Rough Skin
 EVs: 252 HP / 164 Def / 92 Spe
 Impish Nature
@@ -26,7 +26,7 @@ Impish Nature
 - Fire Blast
 - Stealth Rock
 
-Celebi @ Leftovers
+Snail (Celebi) @ Leftovers
 Ability: Natural Cure
 EVs: 252 HP / 240 SpD / 16 Spe
 Calm Nature
@@ -36,7 +36,7 @@ IVs: 0 Atk
 - Baton Pass
 - Healing Wish
 
-Scizor @ Scizorite
+Crab (Scizor) (F) @ Scizorite
 Ability: Technician
 EVs: 248 HP / 60 Def / 200 SpD
 Impish Nature
@@ -45,7 +45,7 @@ Impish Nature
 - Roost
 - Defog
 
-Rotom-Wash @ Leftovers
+Bee (Rotom-Wash) @ Leftovers
 Ability: Levitate
 EVs: 248 HP / 252 Def / 8 SpD
 Bold Nature

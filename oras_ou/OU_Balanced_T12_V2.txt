@@ -1,4 +1,4 @@
-Sableye @ Sablenite
+Orihara (Sableye) (M) @ Sablenite
 Ability: Prankster
 EVs: 252 HP / 160 Def / 96 SpD
 Careful Nature
@@ -7,7 +7,7 @@ Careful Nature
 - Recover
 - Metal Burst
 
-Kyurem-Black @ Life Orb
+Heiwajima (Kyurem-Black) @ Life Orb
 Ability: Teravolt
 EVs: 20 Atk / 252 SpA / 236 Spe
 Mild Nature
@@ -35,7 +35,7 @@ Careful Nature
 - Taunt
 - Bulk Up
 
-Hippowdon @ Leftovers
+Brezhnev (Hippowdon) (M) @ Leftovers
 Ability: Sand Stream
 EVs: 252 HP / 144 Def / 112 SpD
 Impish Nature
