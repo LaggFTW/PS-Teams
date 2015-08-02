@@ -1,4 +1,4 @@
-Poitoed (Politoed) @ Damp Rock
+sudden shower (Politoed) @ Damp Rock
 Ability: Drizzle
 EVs: 248 HP / 164 SpD / 96 Spe
 Calm Nature
@@ -8,7 +8,7 @@ IVs: 0 Atk
 - Encore
 - Rest
 
-Kingdra @ Choice Specs
+stance on wave (Kingdra) @ Choice Specs
 Ability: Swift Swim
 EVs: 4 Def / 252 SpA / 252 Spe
 Modest Nature
@@ -18,7 +18,7 @@ IVs: 0 Atk
 - Scald
 - Ice Beam
 
-Toxicroak @ Life Orb
+paroxysm (Toxicroak) @ Life Orb
 Ability: Dry Skin
 EVs: 252 Atk / 4 Def / 252 Spe
 Jolly Nature
@@ -27,7 +27,7 @@ Jolly Nature
 - Sucker Punch
 - Swords Dance
 
-Klefki @ Damp Rock
+diffraction (Klefki) @ Damp Rock
 Ability: Prankster
 EVs: 248 HP / 252 Def / 8 SpA
 Bold Nature
@@ -37,7 +37,7 @@ IVs: 0 Atk
 - Thunder Wave
 - Rain Dance
 
-Landorus-Therian (M) @ Leftovers
+double counterpoint (Landorus-Therian) (M) @ Leftovers
 Ability: Intimidate
 EVs: 252 HP / 240 Def / 8 SpD / 8 Spe
 Impish Nature
@@ -46,7 +46,7 @@ Impish Nature
 - U-turn
 - Stealth Rock
 
-Swampert @ Swampertite
+dreamless wanderer (Swampert) @ Swampertite
 Ability: Damp
 EVs: 252 Atk / 4 Def / 252 Spe
 Adamant Nature
