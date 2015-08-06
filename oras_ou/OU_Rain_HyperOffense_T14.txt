@@ -37,7 +37,7 @@ IVs: 0 Atk
 - Thunder Wave
 - Rain Dance
 
-double counterpoint (Landorus-Therian) (M) @ Leftovers
+dreamless wanderer (Landorus-Therian) (M) @ Leftovers
 Ability: Intimidate
 EVs: 252 HP / 240 Def / 8 SpD / 8 Spe
 Impish Nature
@@ -46,7 +46,7 @@ Impish Nature
 - U-turn
 - Stealth Rock
 
-dreamless wanderer (Swampert) @ Swampertite
+inside blue inside (Swampert) @ Swampertite
 Ability: Damp
 EVs: 252 Atk / 4 Def / 252 Spe
 Adamant Nature
