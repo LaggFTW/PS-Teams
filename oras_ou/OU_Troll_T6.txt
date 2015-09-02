@@ -1,0 +1,57 @@
+Azumarill @ Watmel Berry  
+Ability: Huge Power  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Aqua Jet  
+- Waterfall  
+- Play Rough  
+- Natural Gift  
+ 
+Latios @ Life Orb  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Draco Meteor  
+- Psyshock  
+- Hidden Power [Fire]  
+- Recover  
+ 
+Magnezone @ Choice Specs  
+Ability: Analytic  
+EVs: 172 HP / 252 SpA / 84 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 Def  
+- Volt Switch  
+- Thunderbolt  
+- Flash Cannon  
+- Hidden Power [Ice]  
+ 
+Diancie @ Diancite  
+Ability: Clear Body  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Moonblast  
+- Diamond Storm  
+- Earth Power  
+- Protect  
+ 
+Hippowdon @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Stealth Rock  
+- Slack Off  
+- Earthquake  
+- Stone Edge  
+ 
+Weavile @ Life Orb  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Ice Shard  
+- Icicle Crash  
+- Knock Off  
+- Power-Up Punch
+
+
