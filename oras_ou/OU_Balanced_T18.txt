@@ -1,30 +1,20 @@
-Manectric @ Manectite  
-Ability: Lightning Rod  
-EVs: 4 Def / 252 SpA / 252 Spe  
-Timid Nature  
-IVs: 2 Atk / 30 Def  
-- Volt Switch  
-- Thunderbolt  
-- Overheat  
-- Hidden Power [Ice]  
-
-Garchomp @ Rocky Helmet  
-Ability: Rough Skin  
-EVs: 252 HP / 164 Def / 92 Spe  
-Impish Nature  
-- Earthquake  
-- Dragon Tail  
--   
-- Stealth Rock  
-
-Skarmory @ Leftovers  
-Ability: Sturdy  
-EVs: 248 HP / 252 SpD / 8 Spe  
-Careful Nature  
-- Iron Head  
+Charizard @ Charizardite X  
+Ability: Blaze  
+EVs: 248 HP / 100 SpD / 160 Spe  
+Adamant Nature  
+- Dragon Claw  
+- Dragon Dance  
 - Roost  
-- Spikes  
-- Taunt  
+- Will-O-Wisp  
+
+Tornadus-Therian (M) @ Assault Vest  
+Ability: Regenerator  
+EVs: 156 HP / 100 SpA / 252 Spe  
+Timid Nature  
+- Hurricane  
+- Heat Wave  
+- Knock Off  
+- U-turn  
 
 Clefable @ Leftovers  
 Ability: Magic Guard  
@@ -36,6 +26,25 @@ IVs: 0 Atk
 - Soft-Boiled  
 - Thunder Wave  
 
+Serperior @ Miracle Seed  
+Ability: Contrary  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 3 Atk / 30 SpA / 30 SpD  
+- Leaf Storm  
+- Dragon Pulse  
+- Hidden Power [Ground]  
+- Taunt  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 192 SpD / 72 Spe  
+Careful Nature  
+- Earthquake  
+- Rock Slide  
+- Roost  
+- Stealth Rock  
+
 Starmie @ Leftovers  
 Ability: Natural Cure  
 EVs: 248 HP / 8 SpD / 252 Spe  
@@ -45,14 +54,5 @@ IVs: 0 Atk
 - Recover  
 - Rapid Spin  
 - Reflect Type  
-
-Landorus-Therian (M) @ Soft Sand  
-Ability: Intimidate  
-EVs: 72 HP / 252 Atk / 184 Spe  
-Adamant Nature  
-- Earthquake  
-- Stone Edge  
-- U-turn  
-- Swords Dance  
 
 
