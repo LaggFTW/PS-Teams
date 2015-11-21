@@ -1,0 +1,58 @@
+Venusaur @ Venusaurite  
+Ability: Overgrow  
+EVs: 144 HP / 4 Def / 252 SpA / 108 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Giga Drain  
+- Sludge Bomb  
+- Hidden Power [Fire]  
+- Synthesis  
+
+Weavile @ Life Orb  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Ice Shard  
+- Icicle Crash  
+- Knock Off  
+- Low Kick  
+
+Manaphy @ Leftovers  
+Ability: Hydration  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Psychic  
+- Shadow Ball  
+- Tail Glow  
+
+Scizor @ Choice Band  
+Ability: Technician  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Bullet Punch  
+- U-turn  
+- Knock Off  
+- Superpower  
+
+Garchomp @ Rocky Helmet  
+Ability: Rough Skin  
+EVs: 252 HP / 164 Def / 92 Spe  
+Impish Nature  
+- Earthquake  
+- Dragon Tail  
+- Fire Blast  
+- Stealth Rock  
+
+Latios (M) @ Life Orb  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Psyshock  
+- Recover  
+- Defog  
+
+

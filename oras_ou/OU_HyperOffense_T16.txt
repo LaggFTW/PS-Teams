@@ -1,0 +1,58 @@
+Charizard @ Charizardite X  
+Ability: Blaze  
+EVs: 104 HP / 220 Atk / 184 Spe  
+Jolly Nature  
+- Flare Blitz  
+- Dragon Claw  
+- Dragon Dance  
+- Roost  
+
+Thundurus (M) @ Life Orb  
+Ability: Prankster  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 Def  
+- Thunderbolt  
+- Grass Knot  
+- Hidden Power [Ice]  
+- Thunder Wave  
+
+Latias (F) @ Life Orb  
+Ability: Levitate  
+EVs: 72 HP / 184 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Recover  
+- Defog  
+- Healing Wish  
+
+Scizor @ Choice Band  
+Ability: Technician  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Bullet Punch  
+- U-turn  
+- Pursuit  
+- Superpower  
+
+Keldeo @ Leftovers  
+Ability: Justified  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Secret Sword  
+- Substitute  
+- Calm Mind  
+
+Landorus-Therian (M) @ Leftovers  
+Ability: Intimidate  
+EVs: 252 HP / 240 Def / 8 SpD / 8 Spe  
+Impish Nature  
+- Earthquake  
+- Stone Edge  
+- U-turn  
+- Stealth Rock  
+
+
