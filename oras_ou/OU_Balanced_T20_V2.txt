@@ -30,21 +30,21 @@ IVs: 0 Atk
 
 Heatran @ Leftovers  
 Ability: Flash Fire  
-EVs: 248 HP / 192 SpD / 68 Spe  
-Calm Nature  
+EVs: 248 HP / 20 SpD / 240 Spe  
+Timid Nature  
 IVs: 0 Atk  
 - Lava Plume  
 - Earth Power  
 - Taunt  
-- Stealth Rock  
+- Protect  
 
 Hippowdon @ Leftovers  
 Ability: Sand Force  
-EVs: 252 HP / 252 Def / 4 SpD  
+EVs: 252 HP / 240 Def / 16 SpD  
 Impish Nature  
 - Earthquake  
 - Slack Off  
-- Toxic  
+- Stealth Rock  
 - Whirlwind  
 
 Scizor @ Scizorite  

@@ -46,13 +46,13 @@ IVs: 0 Atk
 - Sleep Talk  
 - Rest  
 
-Excadrill @ Leftovers  
-Ability: Mold Breaker  
-EVs: 252 HP / 4 Atk / 252 SpD  
-Careful Nature  
+Garchomp @ Rocky Helmet  
+Ability: Rough Skin  
+EVs: 252 HP / 164 Def / 92 Spe  
+Impish Nature  
 - Earthquake  
-- Iron Head  
+- Dragon Tail  
+- Aqua Tail  
 - Stealth Rock  
-- Rapid Spin  
 
 

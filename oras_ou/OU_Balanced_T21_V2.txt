@@ -1,0 +1,58 @@
+Gyarados @ Gyaradosite  
+Ability: Intimidate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Waterfall  
+- Crunch  
+- Earthquake  
+- Dragon Dance  
+
+Toxicroak @ Life Orb  
+Ability: Dry Skin  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Gunk Shot  
+- Drain Punch  
+- Sucker Punch  
+- Swords Dance  
+
+Latias @ Life Orb  
+Ability: Levitate  
+EVs: 72 HP / 184 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Recover  
+- Defog  
+- Healing Wish  
+
+Hippowdon @ Leftovers  
+Ability: Sand Force  
+EVs: 252 HP / 144 Def / 112 SpD  
+Impish Nature  
+- Earthquake  
+- Stealth Rock  
+- Whirlwind  
+- Slack Off  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 20 SpD / 240 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Magma Storm  
+- Toxic  
+- Taunt  
+- Earth Power  
+
+Rotom-Wash @ Leftovers  
+Ability: Levitate  
+EVs: 248 HP / 252 Def / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Hydro Pump  
+- Will-O-Wisp  
+- Pain Split  
+
+

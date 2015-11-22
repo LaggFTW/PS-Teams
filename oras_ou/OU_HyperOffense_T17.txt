@@ -1,0 +1,57 @@
+Weavile @ Life Orb  
+Ability: Pressure  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Ice Shard  
+- Icicle Crash  
+- Knock Off  
+- Pursuit  
+
+Bisharp @ Life Orb  
+Ability: Defiant  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Knock Off  
+- Sucker Punch  
+- Iron Head  
+- Grass Knot  
+
+Wobbuffet @ Custap Berry  
+Ability: Shadow Tag  
+EVs: 52 HP / 232 Def / 224 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Counter  
+- Mirror Coat  
+- Encore  
+- Destiny Bond  
+
+Landorus-Therian @ Leftovers  
+Ability: Intimidate  
+EVs: 252 HP / 240 Def / 8 SpD / 8 Spe  
+Impish Nature  
+- Earthquake  
+- Stone Edge  
+- U-turn  
+- Stealth Rock  
+
+Keldeo @ Leftovers  
+Ability: Justified  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Secret Sword  
+- Substitute  
+- Calm Mind  
+
+Altaria @ Altarianite  
+Ability: Cloud Nine  
+EVs: 248 HP / 104 Def / 156 SpD  
+Impish Nature  
+- Return  
+- Earthquake  
+- Roost  
+- Heal Bell  
+
+
