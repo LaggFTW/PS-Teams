@@ -1,0 +1,58 @@
+Gardevoir (F) @ Gardevoirite  
+Ability: Trace  
+Shiny: Yes  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Psyshock  
+- Shadow Ball  
+- Taunt  
+
+Terrakion @ Life Orb  
+Ability: Justified  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Stone Edge  
+- Swords Dance  
+- Rock Polish  
+
+Celebi @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 148 Def / 108 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Giga Drain  
+- Recover  
+- Baton Pass  
+- Healing Wish  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 20 SpD / 240 Spe  
+Timid Nature  
+- Lava Plume  
+- Earth Power  
+- Stone Edge  
+- Taunt  
+
+Hippowdon @ Leftovers  
+Ability: Sand Force  
+EVs: 252 HP / 240 Def / 16 SpD  
+Impish Nature  
+- Earthquake  
+- Slack Off  
+- Stealth Rock  
+- Whirlwind  
+
+Scizor @ Scizorite  
+Ability: Technician  
+EVs: 248 HP / 60 Def / 200 SpD  
+Impish Nature  
+- Bullet Punch  
+- U-turn  
+- Roost  
+- Defog  
+
+

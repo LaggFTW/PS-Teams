@@ -1,0 +1,61 @@
+Camerupt @ Cameruptite  
+Ability: Solid Rock  
+EVs: 248 HP / 8 Def / 252 SpA  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Fire Blast  
+- Earth Power  
+- Ancient Power  
+- Stealth Rock  
+
+Dragalge @ Assault Vest  
+Ability: Adaptability  
+EVs: 216 HP / 252 SpA / 28 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Sludge Wave  
+- Focus Blast  
+-   
+
+Crawdaunt @ Life Orb  
+Ability: Adaptability  
+EVs: 248 HP / 252 Atk / 8 Def  
+Adamant Nature  
+IVs: 20 Spe  
+- Aqua Jet  
+- Knock Off  
+- Crabhammer  
+- Aerial Ace  
+
+Cresselia (F) @ Mental Herb  
+Ability: Levitate  
+EVs: 248 HP / 252 Def / 8 SpD  
+Relaxed Nature  
+IVs: 0 Atk / 0 Spe  
+- Moonblast  
+- Moonlight  
+- Trick Room  
+- Lunar Dance  
+
+Sylveon @ Red Card  
+Ability: Pixilate  
+EVs: 248 HP / 8 Def / 252 SpA  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Hyper Voice  
+- Psyshock  
+- Shadow Ball  
+- Endure  
+
+Carbink @ Mental Herb  
+Ability: Sturdy  
+EVs: 252 HP / 248 Def / 8 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Trick Room  
+- Stealth Rock  
+- Magic Coat  
+- Explosion  
+
+
