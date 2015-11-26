@@ -16,7 +16,7 @@ IVs: 0 Atk
 - Draco Meteor  
 - Sludge Wave  
 - Focus Blast  
--   
+- Shadow Ball  
 
 Crawdaunt @ Life Orb  
 Ability: Adaptability  
