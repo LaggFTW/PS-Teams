@@ -1,0 +1,58 @@
+sudden shower (Politoed) @ Damp Rock
+Ability: Drizzle
+EVs: 248 HP / 164 SpD / 96 Spe
+Calm Nature
+IVs: 0 Atk
+- Scald
+- Toxic
+- Encore
+- Rest
+
+stance on wave (Kingdra) @ Choice Specs
+Ability: Swift Swim
+EVs: 4 Def / 252 SpA / 252 Spe
+Modest Nature
+IVs: 0 Atk
+- Draco Meteor
+- Hydro Pump
+- Scald
+- Ice Beam
+
+paroxysm (Toxicroak) @ Life Orb
+Ability: Dry Skin
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Gunk Shot
+- Drain Punch
+- Sucker Punch
+- Swords Dance
+
+diffraction (Klefki) @ Damp Rock
+Ability: Prankster
+EVs: 248 HP / 224 Def / 36 SpA
+Bold Nature
+IVs: 0 Atk
+- Dazzling Gleam
+- Spikes
+- Thunder Wave
+- Rain Dance
+
+dreamless wanderer (Landorus-Therian) (M) @ Leftovers
+Ability: Intimidate
+EVs: 252 HP / 240 Def / 8 SpD / 8 Spe
+Impish Nature
+- Earthquake
+- Stone Edge
+- U-turn
+- Stealth Rock
+
+inside blue inside (Swampert) @ Swampertite
+Ability: Damp
+EVs: 252 Atk / 4 Def / 252 Spe
+Adamant Nature
+- Waterfall
+- Earthquake
+- Ice Punch
+- Low Kick
+
+
