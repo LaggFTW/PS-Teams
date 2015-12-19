@@ -1,0 +1,58 @@
+Sableye @ Sablenite  
+Ability: Prankster  
+EVs: 252 HP / 112 Def / 144 SpD  
+Careful Nature  
+- Knock Off  
+- Will-O-Wisp  
+- Recover  
+- Metal Burst  
+
+Volcarona @ Passho Berry  
+Ability: Flame Body  
+EVs: 72 HP / 252 SpA / 184 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Bug Buzz  
+- Giga Drain  
+- Quiver Dance  
+
+Hippowdon @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 144 Def / 112 SpD  
+Impish Nature  
+- Earthquake  
+- Stone Edge  
+- Slack Off  
+- Stealth Rock  
+
+Excadrill @ Air Balloon  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Iron Head  
+- Swords Dance  
+- Rapid Spin  
+
+Ferrothorn @ Chople Berry  
+Ability: Iron Barbs  
+EVs: 252 HP / 88 Def / 168 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Power Whip  
+- Gyro Ball  
+- Leech Seed  
+- Spikes  
+
+Latios (M) @ Life Orb  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 3 Atk / 30 SpA / 30 SpD  
+- Draco Meteor  
+- Psyshock  
+- Hidden Power [Ground]  
+- Recover  
+
+

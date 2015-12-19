@@ -1,0 +1,59 @@
+Altaria @ Altarianite  
+Ability: Natural Cure  
+Happiness: 0  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Frustration  
+- Earthquake  
+- Dragon Dance  
+- Roost  
+
+Roserade @ Life Orb  
+Ability: Technician  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Giga Drain  
+- Extrasensory  
+- Hidden Power [Fire]  
+- Sleep Powder  
+
+Magnezone @ Choice Scarf  
+Ability: Magnet Pull  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Volt Switch  
+- Thunderbolt  
+- Flash Cannon  
+- Hidden Power [Fire]  
+
+Tyranitar @ Chople Berry  
+Ability: Sand Stream  
+EVs: 248 HP / 252 Def / 8 SpD  
+Impish Nature  
+- Stone Edge  
+- Pursuit  
+- Ice Beam  
+- Stealth Rock  
+
+Slowbro @ Leftovers  
+Ability: Regenerator  
+EVs: 252 HP / 232 Def / 24 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Psyshock  
+- Slack Off  
+- Thunder Wave  
+
+Excadrill @ Air Balloon  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Iron Head  
+- Rapid Spin  
+- Swords Dance  
+
+
