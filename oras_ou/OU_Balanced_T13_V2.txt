@@ -36,7 +36,7 @@ Impish Nature
 - Stealth Rock
 - Slack Off
 
-Skarmory @ Shed Shell
+Skarmory @ Leftovers
 Ability: Sturdy
 EVs: 248 HP / 252 SpD / 8 Spe
 Careful Nature
