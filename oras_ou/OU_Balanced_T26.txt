@@ -1,11 +1,12 @@
-Scizor @ Scizorite  
-Ability: Light Metal  
-EVs: 248 HP / 44 Atk / 16 Def / 200 SpD  
-Impish Nature  
-- Bullet Punch  
-- Bug Bite  
-- Roost  
-- Swords Dance  
+Venusaur @ Venusaurite  
+Ability: Overgrow  
+EVs: 232 HP / 252 SpA / 4 SpD / 20 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Giga Drain  
+- Sludge Bomb  
+- Hidden Power [Fire]  
+- Synthesis  
 
 Gliscor @ Toxic Orb  
 Ability: Poison Heal  
@@ -27,8 +28,8 @@ IVs: 2 Atk / 30 SpA / 30 Spe
 - Hidden Power [Fire]  
 
 Hippowdon @ Leftovers  
-Ability: Sand Stream  
-EVs: 252 HP / 144 Def / 112 SpD  
+Ability: Sand Force  
+EVs: 252 HP / 192 Def / 64 SpD  
 Impish Nature  
 - Earthquake  
 - Stone Edge  
@@ -45,13 +46,13 @@ IVs: 0 Atk
 - Recover  
 - Defog  
 
-Azumarill @ Choice Band  
-Ability: Huge Power  
-EVs: 172 HP / 252 Atk / 84 Spe  
-Adamant Nature  
-- Aqua Jet  
-- Waterfall  
-- Play Rough  
+Weavile @ Life Orb  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Ice Shard  
+- Icicle Crash  
 - Knock Off  
+- Pursuit  
 
 
