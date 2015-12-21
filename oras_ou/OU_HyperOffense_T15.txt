@@ -1,30 +1,29 @@
-Keldeo @ Choice Specs  
+Keldeo @ Leftovers  
 Ability: Justified  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
-- Hydro Pump  
-- Secret Sword  
 - Scald  
-- Icy Wind  
+- Secret Sword  
+- Calm Mind  
+- Substitute  
 
-Bisharp @ Assault Vest  
-Ability: Defiant  
-EVs: 192 HP / 220 Atk / 96 Spe  
+Scizor @ Scizorite  
+Ability: Light Metal  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Bullet Punch  
+- Bug Bite  
+- Superpower  
+- Swords Dance  
+
+Tyranitar @ Choice Band  
+Ability: Sand Stream  
+EVs: 100 HP / 252 Atk / 156 Spe  
 Adamant Nature  
 - Pursuit  
-- Sucker Punch  
-- Knock Off  
-- Iron Head  
-
-Gothitelle @ Choice Scarf  
-Ability: Shadow Tag  
-EVs: 80 HP / 176 SpA / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Psychic  
-- Thunder Wave  
-- Trick  
-- Rest  
+- Crunch  
+- Stone Edge  
+- Superpower  
 
 

@@ -1,20 +1,28 @@
-Altaria @ Altarianite
-Ability: Natural Cure
-Happiness: 0
-EVs: 248 HP / 136 Def / 96 SpD / 28 Spe
+Scizor @ Scizorite
+Ability: Light Metal
+EVs: 248 HP / 8 Atk / 252 Def
 Impish Nature
-- Frustration
-- Dragon Dance
+- Bullet Punch
+- U-turn
 - Roost
-- Substitute
+- Defog
 
-Talonflame @ Sharp Beak
-Ability: Gale Wings
-EVs: 88 HP / 252 Atk / 168 Spe
-Jolly Nature
-- Brave Bird
-- Flare Blitz
-- Swords Dance
-- Roost
+Azumarill @ Sitrus Berry
+Ability: Huge Power
+EVs: 92 HP / 252 Atk / 164 Spe
+Adamant Nature
+- Aqua Jet
+- Play Rough
+- Knock Off
+- Belly Drum
+
+Tornadus-Therian (M) @ Life Orb
+Ability: Regenerator
+EVs: 76 Atk / 216 SpA / 216 Spe
+Hasty Nature
+- Hurricane
+- Superpower
+- U-turn
+- Taunt
 
 

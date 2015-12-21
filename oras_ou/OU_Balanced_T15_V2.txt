@@ -14,7 +14,7 @@ Jolly Nature
 - Ice Shard  
 - Icicle Crash  
 - Knock Off  
-- Poison Jab  
+- Low Kick  
 
 Latias (F) @ Life Orb  
 Ability: Levitate  

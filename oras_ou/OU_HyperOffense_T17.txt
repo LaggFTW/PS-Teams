@@ -1,29 +1,57 @@
-Keldeo @ Leftovers  
-Ability: Justified  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Scald  
-- Secret Sword  
-- Calm Mind  
-- Substitute  
-
-Scizor @ Scizorite  
-Ability: Light Metal  
-EVs: 252 Atk / 4 SpD / 252 Spe  
+Gyarados @ Gyaradosite  
+Ability: Intimidate  
+EVs: 252 Atk / 4 Def / 252 Spe  
 Jolly Nature  
-- Bullet Punch  
-- Bug Bite  
-- Superpower  
-- Swords Dance  
-
-Tyranitar @ Choice Band  
-Ability: Sand Stream  
-EVs: 100 HP / 252 Atk / 156 Spe  
-Adamant Nature  
-- Pursuit  
+- Waterfall  
 - Crunch  
+- Earthquake  
+- Dragon Dance  
+
+Kyurem-Black @ Life Orb  
+Ability: Teravolt  
+EVs: 20 Atk / 252 SpA / 236 Spe  
+Mild Nature  
+- Ice Beam  
+- Earth Power  
+- Fusion Bolt  
+- Roost  
+
+Magnezone @ Choice Scarf  
+Ability: Magnet Pull  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Volt Switch  
+- Thunderbolt  
+- Flash Cannon  
+- Hidden Power [Fire]  
+
+Clefable @ Leftovers  
+Ability: Magic Guard  
+EVs: 252 HP / 172 Def / 84 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Soft-Boiled  
+- Calm Mind  
+- Healing Wish  
+
+Excadrill @ Leftovers  
+Ability: Mold Breaker  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Iron Head  
+- Toxic  
+- Stealth Rock  
+- Rapid Spin  
+
+Landorus-Therian (M) @ Soft Sand  
+Ability: Intimidate  
+EVs: 56 HP / 216 Atk / 4 Def / 232 Spe  
+Adamant Nature  
+- Earthquake  
 - Stone Edge  
-- Superpower  
+- Swords Dance  
+- Rock Polish  
 
 

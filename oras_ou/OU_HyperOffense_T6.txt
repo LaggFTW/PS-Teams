@@ -1,32 +1,20 @@
-Diancie @ Diancite
-Ability: Clear Body
-EVs: 4 Atk / 252 SpA / 252 Spe
-Naive Nature
-- Moonblast
-- Diamond Storm
-- Earth Power
-- Protect
+Charizard @ Charizardite X  
+Ability: Blaze  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Flare Blitz  
+- Dragon Claw  
+- Roost  
+- Dragon Dance  
 
-Wobbuffet @ Leftovers
-Ability: Shadow Tag
-EVs: 52 HP / 232 Def / 224 SpD
-Bold Nature
-IVs: 0 Atk
-- Counter
-- Mirror Coat
-- Encore
-- Safeguard
-
-Gyarados @ Cheri Berry
-Ability: Intimidate
-EVs: 252 Atk / 4 SpD / 252 Spe
-Jolly Nature
-- Waterfall
-- Bounce
-- Natural Gift
-- Dragon Dance
-
-Garchomp @ Rocky Helmet
-Ability: Rough Skin
+Manaphy @ Leftovers  
+Ability: Hydration  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Energy Ball  
+- Ice Beam  
+- Tail Glow  
 
 

@@ -17,14 +17,14 @@ Jolly Nature
 - Knock Off
 - Pursuit
 
-Latios @ Life Orb
+Latios (M) @ Life Orb
 Ability: Levitate
 EVs: 4 Def / 252 SpA / 252 Spe
 Timid Nature
 IVs: 0 Atk
 - Draco Meteor
 - Psyshock
-- Calm Mind
+- Thunderbolt
 - Recover
 
 Hippowdon @ Leftovers
