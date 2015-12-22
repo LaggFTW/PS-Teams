@@ -5,13 +5,13 @@ EVs: 248 HP / 136 Def / 12 SpD / 112 Spe
 Bold Nature  
 IVs: 0 Atk  
 - Scald  
-- Hypnosis  
+- Toxic  
 - Encore  
 - Rest  
 
 Snake (Kingdra) (F) @ Choice Specs  
 Ability: Swift Swim  
-EVs: 252 SpA / 4 SpD / 252 Spe  
+EVs: 4 Def / 252 SpA / 252 Spe  
 Modest Nature  
 IVs: 0 Atk  
 - Hydro Pump  
@@ -26,7 +26,7 @@ Adamant Nature
 - Aqua Jet  
 - Waterfall  
 - Stone Edge  
-- Rapid Spin  
+- Low Kick  
 
 Phoenix (Tornadus-Therian) (M) @ Life Orb  
 Ability: Regenerator  

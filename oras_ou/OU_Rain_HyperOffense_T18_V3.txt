@@ -5,7 +5,7 @@ EVs: 248 HP / 136 Def / 12 SpD / 112 Spe
 Bold Nature  
 IVs: 0 Atk  
 - Scald  
-- Hypnosis  
+- Toxic  
 - Encore  
 - Rest  
 

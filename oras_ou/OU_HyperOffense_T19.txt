@@ -1,0 +1,57 @@
+Diancie @ Diancite  
+Ability: Clear Body  
+EVs: 32 Atk / 224 SpA / 252 Spe  
+Naive Nature  
+- Moonblast  
+- Diamond Storm  
+- Earth Power  
+- Protect  
+
+Weavile @ Life Orb  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Ice Shard  
+- Icicle Crash  
+- Knock Off  
+- Low Kick  
+
+Magnezone @ Choice Scarf  
+Ability: Magnet Pull  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Volt Switch  
+- Thunderbolt  
+- Flash Cannon  
+- Hidden Power [Fire]  
+
+Latios @ Life Orb  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Psyshock  
+- Recover  
+- Defog  
+
+Azumarill @ Choice Band  
+Ability: Huge Power  
+EVs: 168 HP / 252 Atk / 4 Def / 84 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Waterfall  
+- Play Rough  
+- Knock Off  
+
+Landorus-Therian (M) @ Rocky Helmet  
+Ability: Intimidate  
+EVs: 248 HP / 244 Def / 8 SpD / 8 Spe  
+Impish Nature  
+- Earthquake  
+- Stone Edge  
+- U-turn  
+- Stealth Rock  
+
+
