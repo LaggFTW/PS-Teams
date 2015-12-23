@@ -1,0 +1,60 @@
+Alakazam @ Alakazite  
+Ability: Magic Guard  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Shadow Ball  
+- Focus Blast  
+- Encore  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 88 Def / 168 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Power Whip  
+- Gyro Ball  
+- Leech Seed  
+- Spikes  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 184 SpD / 76 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Lava Plume  
+- Toxic  
+- Stealth Rock  
+- Protect  
+
+Keldeo @ Life Orb  
+Ability: Justified  
+EVs: 32 HP / 224 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Secret Sword  
+- Rest  
+- Sleep Talk  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 252 SpD / 12 Spe  
+Careful Nature  
+- Earthquake  
+- Knock Off  
+- Taunt  
+- Roost  
+
+Slowbro @ Leftovers  
+Ability: Regenerator  
+EVs: 240 HP / 216 Def / 52 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Psyshock  
+- Slack Off  
+- Calm Mind  
+
+

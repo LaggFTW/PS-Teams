@@ -1,11 +1,10 @@
-Alakazam @ Alakazite  
-Ability: Magic Guard  
-EVs: 4 Def / 252 SpA / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Psychic  
-- Focus Blast  
-- Shadow Ball  
-- Encore  
+Excadrill @ Choice Scarf  
+Ability: Mold Breaker  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Iron Head  
+- Rock Slide  
+- Rapid Spin  
 
 

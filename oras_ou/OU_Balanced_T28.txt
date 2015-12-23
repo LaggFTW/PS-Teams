@@ -1,0 +1,58 @@
+Doll (Roserade) (F) @ Life Orb  
+Ability: Technician  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 3 Atk / 30 SpA / 30 SpD  
+- Giga Drain  
+- Sludge Bomb  
+- Hidden Power [Ground]  
+- Sleep Powder  
+
+Phoenix (Talonflame) (F) @ Sharp Beak  
+Ability: Gale Wings  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Brave Bird  
+- Flare Blitz  
+- Roost  
+- Swords Dance  
+
+Monkey (Hippowdon) (F) @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 144 Def / 112 SpD  
+Impish Nature  
+- Earthquake  
+- Stone Edge  
+- Slack Off  
+- Stealth Rock  
+
+Snail (Slowking) (F) @ Leftovers  
+Ability: Regenerator  
+EVs: 252 HP / 184 Def / 72 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Psyshock  
+- Slack Off  
+- Calm Mind  
+
+Crab (Scizor) (F) @ Scizorite  
+Ability: Light Metal  
+EVs: 248 HP / 44 Atk / 16 Def / 200 SpD  
+Impish Nature  
+- Bullet Punch  
+- U-turn  
+- Roost  
+- Swords Dance  
+
+Ougi (Mandibuzz) (F) @ Leftovers  
+Ability: Overcoat  
+EVs: 248 HP / 244 Def / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Foul Play  
+- Roost  
+- Toxic  
+- Defog  
+
+

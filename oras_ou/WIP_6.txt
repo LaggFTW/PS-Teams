@@ -1,0 +1,19 @@
+Medicham @ Medichamite  
+Ability: Pure Power  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- High Jump Kick  
+- Zen Headbutt  
+- Ice Punch  
+
+Serperior @ Coba Berry  
+Ability: Contrary  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Leaf Storm  
+- Dragon Pulse  
+- Hidden Power [Rock]  
+- Glare  
+
+
