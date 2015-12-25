@@ -1,0 +1,57 @@
+Landorus-Therian (M) @ Expert Belt  
+Ability: Intimidate  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Rash Nature  
+- Earthquake  
+- Grass Knot  
+- Hidden Power [Ice]  
+- U-turn  
+
+Talonflame @ Sharp Beak  
+Ability: Gale Wings  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Brave Bird  
+- Flare Blitz  
+- Roost  
+- Swords Dance  
+
+Garchomp @ Rocky Helmet  
+Ability: Rough Skin  
+EVs: 252 HP / 164 Def / 92 Spe  
+Impish Nature  
+- Earthquake  
+- Dragon Tail  
+- Toxic  
+- Stealth Rock  
+
+Klefki @ Leftovers  
+Ability: Prankster  
+EVs: 248 HP / 8 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Flash Cannon  
+- Magnet Rise  
+- Toxic  
+- Thunder Wave  
+
+Latios (M) @ Life Orb  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Psyshock  
+- Recover  
+- Defog  
+
+Lopunny (F) @ Lopunnite  
+Ability: Limber  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- Return  
+- High Jump Kick  
+- Encore  
+
+
