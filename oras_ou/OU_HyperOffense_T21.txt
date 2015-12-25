@@ -1,0 +1,58 @@
+Diancie @ Diancite  
+Ability: Clear Body  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Moonblast  
+- Diamond Storm  
+- Earth Power  
+- Protect  
+
+Volcarona @ Passho Berry  
+Ability: Flame Body  
+EVs: 72 HP / 252 SpA / 184 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Bug Buzz  
+- Giga Drain  
+- Quiver Dance  
+
+Keldeo @ Choice Scarf  
+Ability: Justified  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 3 Atk / 30 SpA  
+- Hydro Pump  
+- Secret Sword  
+- Scald  
+- Hidden Power [Electric]  
+
+Bisharp @ Assault Vest  
+Ability: Defiant  
+EVs: 192 HP / 220 Atk / 96 Spe  
+Adamant Nature  
+- Pursuit  
+- Sucker Punch  
+- Knock Off  
+- Iron Head  
+
+Latias (F) @ Life Orb  
+Ability: Levitate  
+EVs: 72 HP / 184 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Recover  
+- Defog  
+- Healing Wish  
+
+Landorus-Therian (M) @ Rocky Helmet  
+Ability: Intimidate  
+EVs: 248 HP / 252 Def / 8 SpD  
+Impish Nature  
+- Earthquake  
+- Knock Off  
+- U-turn  
+- Stealth Rock  
+
+

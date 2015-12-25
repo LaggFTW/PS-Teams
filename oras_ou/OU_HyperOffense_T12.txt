@@ -1,4 +1,4 @@
-Gardevoir @ Gardevoirite
+Gardevoir (F) @ Gardevoirite
 Ability: Trace
 EVs: 24 Def / 232 SpA / 252 Spe
 Timid Nature

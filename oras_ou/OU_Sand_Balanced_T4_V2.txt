@@ -29,11 +29,11 @@ Amoonguss @ Black Sludge
 Ability: Regenerator  
 EVs: 252 HP / 252 Def / 4 SpD  
 Bold Nature  
-IVs: 0 Atk  
+IVs: 2 Atk / 30 SpA / 30 Spe  
 - Giga Drain  
 - Clear Smog  
+- Hidden Power [Fire]  
 - Spore  
-- Stun Spore  
 
 Rotom-Wash @ Leftovers  
 Ability: Levitate  
