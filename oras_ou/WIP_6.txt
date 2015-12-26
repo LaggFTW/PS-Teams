@@ -1,0 +1,10 @@
+Mamoswine @ Life Orb  
+Ability: Thick Fat  
+EVs: 244 Atk / 12 SpA / 252 Spe  
+Naive Nature  
+- Ice Shard  
+- Icicle Crash  
+- Earthquake  
+- Freeze-Dry  
+
+

@@ -13,8 +13,8 @@ Ability: Sand Stream
 EVs: 248 HP / 96 Def / 164 SpD  
 Careful Nature  
 - Pursuit  
+- Crunch  
 - Stone Edge  
-- Ice Beam  
 - Stealth Rock  
 
 Excadrill @ Air Balloon  

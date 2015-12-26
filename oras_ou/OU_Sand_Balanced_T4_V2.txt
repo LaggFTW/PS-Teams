@@ -10,7 +10,7 @@ Jolly Nature
 Tyranitar @ Smooth Rock  
 Ability: Sand Stream  
 EVs: 248 HP / 80 Def / 180 SpD  
-Careful Nature  
+Impish Nature  
 - Pursuit  
 - Crunch  
 - Stone Edge  
@@ -27,7 +27,7 @@ Adamant Nature
 
 Amoonguss @ Black Sludge  
 Ability: Regenerator  
-EVs: 252 HP / 252 Def / 4 SpD  
+EVs: 252 HP / 160 Def / 96 SpD  
 Bold Nature  
 IVs: 2 Atk / 30 SpA / 30 Spe  
 - Giga Drain  

@@ -1,0 +1,58 @@
+Scizor @ Scizorite  
+Ability: Light Metal  
+EVs: 248 HP / 16 Atk / 44 Def / 200 SpD  
+Impish Nature  
+- Bullet Punch  
+- Bug Bite  
+- Roost  
+- Swords Dance  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 8 Def / 200 SpD / 56 Spe  
+Careful Nature  
+- Earthquake  
+- Knock Off  
+- Roost  
+- Swords Dance  
+
+Magnezone @ Choice Scarf  
+Ability: Magnet Pull  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Volt Switch  
+- Thunderbolt  
+- Flash Cannon  
+- Hidden Power [Fire]  
+
+Tyranitar @ Chople Berry  
+Ability: Sand Stream  
+EVs: 248 HP / 80 Def / 180 SpD  
+Relaxed Nature  
+- Pursuit  
+- Stone Edge  
+- Ice Beam  
+- Stealth Rock  
+
+Latios (M) @ Life Orb  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Psyshock  
+- Recover  
+- Defog  
+
+Keldeo @ Choice Scarf  
+Ability: Justified  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 3 Atk / 30 SpA  
+- Hydro Pump  
+- Secret Sword  
+- Scald  
+- Hidden Power [Electric]  
+
+

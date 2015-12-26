@@ -1,0 +1,11 @@
+Serperior @ Life Orb  
+Ability: Contrary  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 3 Atk / 30 SpA / 30 SpD  
+- Leaf Storm  
+- Dragon Pulse  
+- Hidden Power [Ground]  
+- Giga Drain  
+
+

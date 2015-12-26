@@ -31,7 +31,7 @@ IVs: 2 Atk / 30 SpA / 30 Spe
 Tyranitar @ Chople Berry  
 Ability: Sand Stream  
 EVs: 248 HP / 252 Def / 8 SpD  
-Impish Nature  
+Relaxed Nature  
 - Stone Edge  
 - Pursuit  
 - Ice Beam  

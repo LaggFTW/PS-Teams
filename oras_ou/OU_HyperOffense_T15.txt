@@ -20,7 +20,7 @@ Jolly Nature
 Tyranitar @ Custap Berry  
 Ability: Sand Stream  
 EVs: 248 HP / 80 Def / 180 SpD  
-Careful Nature  
+Sassy Nature  
 - Pursuit  
 - Stone Edge  
 - Ice Beam  

@@ -46,13 +46,13 @@ IVs: 0 Atk
 - Recover  
 - Defog  
 
-Weavile @ Life Orb  
-Ability: Pressure  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
-- Ice Shard  
-- Icicle Crash  
-- Knock Off  
-- Pursuit  
+Talonflame @ Leftovers  
+Ability: Gale Wings  
+EVs: 248 HP / 244 SpD / 16 Spe  
+Careful Nature  
+- Brave Bird  
+- Roost  
+- Will-O-Wisp  
+- Taunt  
 
 
