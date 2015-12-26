@@ -17,9 +17,9 @@ Careful Nature
 - Roost  
 - Swords Dance  
 
-Magnezone @ Choice Specs  
+Magnezone @ Choice Scarf  
 Ability: Magnet Pull  
-EVs: 168 HP / 252 SpA / 88 Spe  
+EVs: 48 HP / 252 SpA / 208 Spe  
 Modest Nature  
 IVs: 2 Atk / 30 SpA / 30 Spe  
 - Volt Switch  
