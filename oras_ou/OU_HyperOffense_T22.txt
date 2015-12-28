@@ -1,0 +1,58 @@
+Charizard @ Charizardite Y  
+Ability: Blaze  
+EVs: 40 HP / 252 SpA / 216 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Solar Beam  
+- Focus Blast  
+- Roost  
+
+Manaphy @ Leftovers  
+Ability: Hydration  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Ice Beam  
+- Psychic  
+- Tail Glow  
+
+Tyranitar @ Choice Band  
+Ability: Sand Stream  
+EVs: 176 HP / 252 Atk / 80 Spe  
+Adamant Nature  
+- Pursuit  
+- Crunch  
+- Stone Edge  
+- Superpower  
+
+Excadrill @ Air Balloon  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Iron Head  
+- Rock Slide  
+- Rapid Spin  
+
+Garchomp @ Rocky Helmet  
+Ability: Rough Skin  
+EVs: 252 HP / 164 Def / 92 Spe  
+Impish Nature  
+- Earthquake  
+- Dragon Tail  
+- Toxic  
+- Stealth Rock  
+
+Serperior @ Leftovers  
+Ability: Contrary  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Leaf Storm  
+- Dragon Pulse  
+- Hidden Power [Fire]  
+- Taunt  
+
+

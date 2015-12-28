@@ -1,10 +1,57 @@
-Excadrill @ Choice Scarf  
-Ability: Mold Breaker  
+Gardevoir (F) @ Gardevoirite  
+Ability: Trace  
+Shiny: Yes  
+EVs: 40 HP / 252 SpA / 216 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Psyshock  
+- Focus Blast  
+- Will-O-Wisp  
+
+Garchomp @ Rocky Helmet  
+Ability: Rough Skin  
+EVs: 252 HP / 164 Def / 92 Spe  
+Impish Nature  
+- Earthquake  
+- Dragon Tail  
+- Fire Blast  
+- Stealth Rock  
+
+Jirachi @ Choice Scarf  
+Ability: Serene Grace  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
-- Earthquake  
 - Iron Head  
-- Rock Slide  
-- Rapid Spin  
+- Fire Punch  
+- U-turn  
+- Healing Wish  
+
+Tornadus-Therian (M) @ Assault Vest  
+Ability: Regenerator  
+EVs: 168 HP / 88 SpA / 252 Spe  
+Hasty Nature  
+- Hurricane  
+- Superpower  
+- Knock Off  
+- U-turn  
+
+Azumarill @ Choice Band  
+Ability: Huge Power  
+EVs: 168 HP / 252 Atk / 88 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Waterfall  
+- Play Rough  
+- Superpower  
+
+Breloom @ Life Orb  
+Ability: Technician  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Mach Punch  
+- Bullet Seed  
+- Force Palm  
+- Spore  
 
 
