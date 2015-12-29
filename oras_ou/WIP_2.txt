@@ -1,28 +1,10 @@
-Scizor @ Scizorite
-Ability: Light Metal
-EVs: 248 HP / 8 Atk / 252 Def
-Impish Nature
-- Bullet Punch
-- U-turn
-- Roost
-- Defog
-
-Azumarill @ Sitrus Berry
-Ability: Huge Power
-EVs: 92 HP / 252 Atk / 164 Spe
-Adamant Nature
-- Aqua Jet
-- Play Rough
-- Knock Off
-- Belly Drum
-
-Tornadus-Therian (M) @ Life Orb
-Ability: Regenerator
-EVs: 76 Atk / 216 SpA / 216 Spe
-Hasty Nature
-- Hurricane
-- Superpower
-- U-turn
-- Taunt
+Mamoswine @ Life Orb  
+Ability: Thick Fat  
+EVs: 244 Atk / 12 SpA / 252 Spe  
+Naive Nature  
+- Ice Shard  
+- Icicle Crash  
+- Earthquake  
+- Freeze-Dry  
 
 
