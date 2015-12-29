@@ -1,0 +1,58 @@
+Manectric @ Manectite  
+Ability: Lightning Rod  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 Def  
+- Volt Switch  
+- Thunderbolt  
+- Overheat  
+- Hidden Power [Ice]  
+
+Garchomp @ Choice Scarf  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Dragon Claw  
+- Stone Edge  
+- Outrage  
+
+Skarmory @ Leftovers  
+Ability: Sturdy  
+EVs: 248 HP / 252 SpD / 8 Spe  
+Careful Nature  
+- Iron Head  
+- Roost  
+- Spikes  
+- Whirlwind  
+
+Clefable @ Leftovers  
+Ability: Magic Guard  
+EVs: 252 HP / 172 Def / 84 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Soft-Boiled  
+- Calm Mind  
+- Stealth Rock  
+
+Starmie @ Life Orb  
+Ability: Analytic  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Psyshock  
+- Thunderbolt  
+- Rapid Spin  
+
+Thundurus (M) @ Life Orb  
+Ability: Defiant  
+EVs: 76 Atk / 180 SpA / 252 Spe  
+Naive Nature  
+- Thunderbolt  
+- Grass Knot  
+- Knock Off  
+- Iron Tail  
+
+

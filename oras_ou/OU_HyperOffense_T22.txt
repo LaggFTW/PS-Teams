@@ -14,9 +14,9 @@ EVs: 252 SpA / 4 SpD / 252 Spe
 Timid Nature  
 IVs: 0 Atk  
 - Scald  
-- Ice Beam  
 - Psychic  
 - Tail Glow  
+- Rain Dance  
 
 Tyranitar @ Choice Band  
 Ability: Sand Stream  
@@ -33,7 +33,7 @@ EVs: 252 Atk / 4 SpD / 252 Spe
 Adamant Nature  
 - Earthquake  
 - Iron Head  
-- Rock Slide  
+- Swords Dance  
 - Rapid Spin  
 
 Garchomp @ Rocky Helmet  

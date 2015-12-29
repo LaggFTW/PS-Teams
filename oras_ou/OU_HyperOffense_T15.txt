@@ -11,7 +11,7 @@ IVs: 0 Atk
 Scizor @ Scizorite  
 Ability: Light Metal  
 EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
+Adamant Nature  
 - Bullet Punch  
 - Bug Bite  
 - Superpower  
@@ -20,10 +20,10 @@ Jolly Nature
 Tyranitar @ Custap Berry  
 Ability: Sand Stream  
 EVs: 248 HP / 80 Def / 180 SpD  
-Sassy Nature  
+Relaxed Nature  
 - Pursuit  
 - Stone Edge  
-- Ice Beam  
+- Endure  
 - Stealth Rock  
 
 Landorus-Therian (M) @ Choice Scarf  
