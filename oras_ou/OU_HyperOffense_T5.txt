@@ -47,7 +47,7 @@ IVs: 0 Atk
 
 Azumarill @ Choice Band  
 Ability: Huge Power  
-EVs: 248 HP / 252 Atk / 8 Def  
+EVs: 168 HP / 252 Atk / 4 Def / 84 Spe  
 Adamant Nature  
 - Aqua Jet  
 - Waterfall  
