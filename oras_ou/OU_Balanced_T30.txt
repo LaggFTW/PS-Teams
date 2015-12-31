@@ -46,7 +46,7 @@ IVs: 0 Atk
 - Slack Off  
 - Calm Mind  
 
-Latios @ Life Orb  
+Latios (M) @ Life Orb  
 Ability: Levitate  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  

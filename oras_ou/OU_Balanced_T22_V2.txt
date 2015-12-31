@@ -1,4 +1,4 @@
-Gardevoir (F) @ Gardevoirite  
+Mental Words (Gardevoir) (F) @ Gardevoirite  
 Ability: Trace  
 Shiny: Yes  
 EVs: 56 HP / 4 Def / 232 SpA / 216 Spe  
@@ -9,7 +9,7 @@ IVs: 0 Atk
 - Focus Blast  
 - Calm Mind  
 
-Excadrill @ Life Orb  
+All Out (Excadrill) @ Life Orb  
 Ability: Sand Rush  
 EVs: 252 Atk / 4 Def / 252 Spe  
 Adamant Nature  
@@ -18,7 +18,7 @@ Adamant Nature
 - Rock Slide  
 - Rapid Spin  
 
-Hippowdon @ Leftovers  
+Undertaker (Hippowdon) @ Leftovers  
 Ability: Sand Stream  
 EVs: 252 HP / 144 Def / 112 SpD  
 Impish Nature  
@@ -27,7 +27,7 @@ Impish Nature
 - Slack Off  
 - Stealth Rock  
 
-Celebi @ Leftovers  
+Clear Rose (Celebi) @ Leftovers  
 Ability: Natural Cure  
 EVs: 248 HP / 152 Def / 108 Spe  
 Bold Nature  
@@ -36,7 +36,7 @@ Bold Nature
 - Baton Pass  
 - Healing Wish  
 
-Keldeo @ Choice Scarf  
+Skittish Trooper (Keldeo) @ Choice Scarf  
 Ability: Justified  
 EVs: 4 Def / 252 SpA / 252 Spe  
 Timid Nature  
@@ -46,7 +46,7 @@ IVs: 3 Atk / 30 SpA
 - Scald  
 - Hidden Power [Electric]  
 
-Talonflame @ Leftovers  
+A null set (Talonflame) @ Leftovers  
 Ability: Gale Wings  
 EVs: 248 HP / 252 SpD / 8 Spe  
 Careful Nature  

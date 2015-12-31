@@ -16,7 +16,7 @@ Jolly Nature
 - Sucker Punch  
 - Swords Dance  
 
-Latias @ Life Orb  
+Latias (F) @ Life Orb  
 Ability: Levitate  
 EVs: 72 HP / 184 SpA / 252 Spe  
 Timid Nature  

@@ -1,4 +1,4 @@
-Gyarados @ Gyaradosite  
+Typhoon (Gyarados) @ Gyaradosite  
 Ability: Intimidate  
 EVs: 252 Atk / 4 Def / 252 Spe  
 Jolly Nature  
@@ -7,7 +7,7 @@ Jolly Nature
 - Earthquake  
 - Dragon Dance  
 
-Toxicroak @ Life Orb  
+Mountain Vapor (Toxicroak) @ Life Orb  
 Ability: Dry Skin  
 EVs: 252 Atk / 4 Def / 252 Spe  
 Jolly Nature  
@@ -16,7 +16,7 @@ Jolly Nature
 - Sucker Punch  
 - Swords Dance  
 
-Latias @ Life Orb  
+Spring Haze (Latias) (F) @ Life Orb  
 Ability: Levitate  
 EVs: 72 HP / 184 SpA / 252 Spe  
 Timid Nature  
@@ -26,7 +26,7 @@ IVs: 0 Atk
 - Defog  
 - Healing Wish  
 
-Hippowdon @ Leftovers  
+Dust Storm (Hippowdon) @ Leftovers  
 Ability: Sand Force  
 EVs: 252 HP / 144 Def / 112 SpD  
 Impish Nature  
@@ -35,7 +35,7 @@ Impish Nature
 - Whirlwind  
 - Slack Off  
 
-Heatran @ Leftovers  
+Heavy Fog (Heatran) @ Leftovers  
 Ability: Flash Fire  
 EVs: 248 HP / 20 SpD / 240 Spe  
 Calm Nature  
@@ -45,7 +45,7 @@ IVs: 0 Atk
 - Taunt  
 - Earth Power  
 
-Rotom-Wash @ Leftovers  
+River Mist (Rotom-Wash) @ Leftovers  
 Ability: Levitate  
 EVs: 248 HP / 252 Def / 8 Spe  
 Bold Nature  

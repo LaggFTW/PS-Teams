@@ -1,4 +1,4 @@
-Landorus-Therian (M) @ Expert Belt  
+Rapture (Landorus-Therian) (M) @ Expert Belt  
 Ability: Intimidate  
 EVs: 4 Atk / 252 SpA / 252 Spe  
 Rash Nature  
@@ -7,7 +7,7 @@ Rash Nature
 - Hidden Power [Ice]  
 - U-turn  
 
-Talonflame @ Sharp Beak  
+Sepia (Talonflame) @ Sharp Beak  
 Ability: Gale Wings  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
@@ -16,7 +16,7 @@ Jolly Nature
 - Roost  
 - Swords Dance  
 
-Garchomp @ Rocky Helmet  
+Epicurean (Garchomp) @ Rocky Helmet  
 Ability: Rough Skin  
 EVs: 252 HP / 164 Def / 92 Spe  
 Impish Nature  
@@ -25,7 +25,7 @@ Impish Nature
 - Toxic  
 - Stealth Rock  
 
-Klefki @ Leftovers  
+monochrome (Klefki) @ Leftovers  
 Ability: Prankster  
 EVs: 248 HP / 8 Def / 252 SpD  
 Calm Nature  
@@ -35,7 +35,7 @@ IVs: 0 Atk
 - Toxic  
 - Thunder Wave  
 
-Latios (M) @ Life Orb  
+Myosotis alpestris (Latios) (M) @ Life Orb  
 Ability: Levitate  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
@@ -45,7 +45,7 @@ IVs: 0 Atk
 - Recover  
 - Defog  
 
-Lopunny (F) @ Lopunnite  
+High jump love (Lopunny) (F) @ Lopunnite  
 Ability: Limber  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  

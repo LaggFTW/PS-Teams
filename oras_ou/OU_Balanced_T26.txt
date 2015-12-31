@@ -1,4 +1,4 @@
-Venusaur @ Venusaurite  
+Calm (Venusaur) @ Venusaurite  
 Ability: Overgrow  
 EVs: 232 HP / 252 SpA / 4 SpD / 20 Spe  
 Modest Nature  
@@ -8,7 +8,7 @@ IVs: 2 Atk / 30 SpA / 30 Spe
 - Hidden Power [Fire]  
 - Synthesis  
 
-Gliscor @ Toxic Orb  
+Tempest (Gliscor) @ Toxic Orb  
 Ability: Poison Heal  
 EVs: 244 HP / 8 Def / 200 SpD / 56 Spe  
 Careful Nature  
@@ -17,7 +17,7 @@ Careful Nature
 - Roost  
 - Swords Dance  
 
-Magnezone @ Choice Scarf  
+Cloudy (Magnezone) @ Choice Scarf  
 Ability: Magnet Pull  
 EVs: 48 HP / 252 SpA / 208 Spe  
 Modest Nature  
@@ -27,7 +27,7 @@ IVs: 2 Atk / 30 SpA / 30 Spe
 - Flash Cannon  
 - Hidden Power [Fire]  
 
-Hippowdon @ Leftovers  
+Dust Storm (Hippowdon) @ Leftovers  
 Ability: Sand Force  
 EVs: 252 HP / 192 Def / 64 SpD  
 Impish Nature  
@@ -36,7 +36,7 @@ Impish Nature
 - Slack Off  
 - Stealth Rock  
 
-Latios (M) @ Life Orb  
+Blue Sky (Latios) (M) @ Life Orb  
 Ability: Levitate  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
@@ -46,7 +46,7 @@ IVs: 0 Atk
 - Recover  
 - Defog  
 
-Weavile @ Life Orb  
+Diamond Dust (Weavile) @ Life Orb  
 Ability: Pressure  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  

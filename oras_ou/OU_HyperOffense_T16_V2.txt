@@ -1,4 +1,4 @@
-Charizard @ Charizardite X  
+Light of Nature (Charizard) @ Charizardite X  
 Ability: Blaze  
 EVs: 104 HP / 220 Atk / 184 Spe  
 Jolly Nature  
@@ -7,7 +7,7 @@ Jolly Nature
 - Dragon Dance  
 - Roost  
 
-Thundurus (M) @ Life Orb  
+Trick Shooter (Thundurus) (M) @ Life Orb  
 Ability: Prankster  
 EVs: 4 Def / 252 SpA / 252 Spe  
 Timid Nature  
@@ -17,7 +17,7 @@ IVs: 2 Atk / 30 Def
 - Hidden Power [Ice]  
 - Thunder Wave  
 
-Latias (F) @ Life Orb  
+Airstream (Latias) (F) @ Life Orb  
 Ability: Levitate  
 EVs: 72 HP / 184 SpA / 252 Spe  
 Timid Nature  
@@ -27,7 +27,7 @@ IVs: 0 Atk
 - Defog  
 - Healing Wish  
 
-Bisharp @ Assault Vest  
+Cardinal Red (Bisharp) @ Assault Vest  
 Ability: Defiant  
 EVs: 192 HP / 220 Atk / 96 Spe  
 Adamant Nature  
@@ -36,17 +36,17 @@ Adamant Nature
 - Sucker Punch  
 - Iron Head  
 
-Keldeo @ Choice Scarf  
+Overflow (Keldeo) @ Choice Scarf  
 Ability: Justified  
 EVs: 4 Def / 252 SpA / 252 Spe  
 Timid Nature  
-IVs: 0 Atk  
+IVs: 3 Atk / 30 SpA  
 - Hydro Pump  
 - Secret Sword  
 - Scald  
-- Icy Wind  
+- Hidden Power [Electric]  
 
-Landorus-Therian (M) @ Leftovers  
+Gust of Wind (Landorus-Therian) (M) @ Leftovers  
 Ability: Intimidate  
 EVs: 252 HP / 240 Def / 8 SpD / 8 Spe  
 Impish Nature  

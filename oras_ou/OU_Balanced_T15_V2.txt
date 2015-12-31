@@ -1,4 +1,4 @@
-Charizard @ Charizardite X  
+Regulus (Charizard) @ Charizardite X  
 Ability: Blaze  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
@@ -7,7 +7,7 @@ Jolly Nature
 - Dragon Dance  
 - Roost  
 
-Weavile @ Life Orb  
+Fuhaku (Weavile) @ Life Orb  
 Ability: Pressure  
 EVs: 252 Atk / 4 Def / 252 Spe  
 Jolly Nature  
@@ -16,7 +16,7 @@ Jolly Nature
 - Knock Off  
 - Low Kick  
 
-Latias (F) @ Life Orb  
+Star Trail (Latias) (F) @ Life Orb  
 Ability: Levitate  
 EVs: 72 HP / 184 SpA / 252 Spe  
 Timid Nature  
@@ -26,7 +26,7 @@ IVs: 0 Atk
 - Defog  
 - Healing Wish  
 
-Hippowdon @ Leftovers  
+Mirageland (Hippowdon) @ Leftovers  
 Ability: Sand Stream  
 EVs: 252 HP / 240 Def / 16 SpD  
 Impish Nature  
@@ -35,8 +35,9 @@ Impish Nature
 - Whirlwind  
 - Stealth Rock  
 
-Ferrothorn @ Leftovers  
+Kaede (Ferrothorn) @ Leftovers  
 Ability: Iron Barbs  
+Shiny: Yes  
 EVs: 252 HP / 88 Def / 168 SpD  
 Relaxed Nature  
 IVs: 0 Spe  
@@ -45,7 +46,7 @@ IVs: 0 Spe
 - Leech Seed  
 - Thunder Wave  
 
-Excadrill @ Life Orb  
+Raihaku (Excadrill) @ Life Orb  
 Ability: Sand Rush  
 EVs: 252 Atk / 4 Def / 252 Spe  
 Adamant Nature  

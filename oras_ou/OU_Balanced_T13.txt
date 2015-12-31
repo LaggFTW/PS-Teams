@@ -1,57 +1,57 @@
-Altaria @ Altarianite
-Ability: Natural Cure
-EVs: 248 HP / 136 Def / 96 SpD / 28 Spe
-Impish Nature
-- Facade
-- Dragon Dance
-- Cotton Guard
-- Roost
+Rapture (Altaria) @ Altarianite  
+Ability: Natural Cure  
+EVs: 248 HP / 136 Def / 96 SpD / 28 Spe  
+Impish Nature  
+- Facade  
+- Dragon Dance  
+- Cotton Guard  
+- Roost  
 
-Reuniclus @ Leftovers
-Ability: Magic Guard
-EVs: 252 HP / 200 Def / 56 SpD
-Bold Nature
-IVs: 0 Atk
-- Psyshock
-- Focus Blast
-- Calm Mind
-- Recover
+Real Intention (Reuniclus) @ Leftovers  
+Ability: Magic Guard  
+EVs: 252 HP / 200 Def / 56 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Focus Blast  
+- Calm Mind  
+- Recover  
 
-Keldeo @ Choice Specs
-Ability: Justified
-EVs: 252 SpA / 4 SpD / 252 Spe
-Timid Nature
-IVs: 3 Atk / 30 SpA
-- Hydro Pump
-- Secret Sword
-- Scald
-- Hidden Power [Electric]
+Resolution (Keldeo-Resolute) @ Choice Specs  
+Ability: Justified  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 3 Atk / 30 SpA  
+- Hydro Pump  
+- Secret Sword  
+- Scald  
+- Hidden Power [Electric]  
 
-Hippowdon @ Leftovers
-Ability: Sand Stream
-EVs: 252 HP / 144 Def / 112 SpD
-Impish Nature
-- Earthquake
-- Stone Edge
-- Stealth Rock
-- Slack Off
+The world of noise (Hippowdon) @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 144 Def / 112 SpD  
+Impish Nature  
+- Earthquake  
+- Stone Edge  
+- Stealth Rock  
+- Slack Off  
 
-Skarmory @ Leftovers
-Ability: Sturdy
-EVs: 248 HP / 252 SpD / 8 Spe
-Careful Nature
-- Iron Head
-- Roost
-- Spikes
-- Whirlwind
+monochrome (Skarmory) @ Leftovers  
+Ability: Sturdy  
+EVs: 248 HP / 252 SpD / 8 Spe  
+Careful Nature  
+- Iron Head  
+- Roost  
+- Spikes  
+- Whirlwind  
 
-Bisharp @ Assault Vest
-Ability: Defiant
-EVs: 248 HP / 228 Atk / 32 Spe
-Adamant Nature
-- Pursuit
-- Sucker Punch
-- Knock Off
-- Iron Head
+Broken puzzle (Bisharp) @ Assault Vest  
+Ability: Defiant  
+EVs: 248 HP / 228 Atk / 32 Spe  
+Adamant Nature  
+- Pursuit  
+- Sucker Punch  
+- Knock Off  
+- Iron Head  
 
 

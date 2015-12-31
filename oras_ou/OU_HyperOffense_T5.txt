@@ -1,4 +1,4 @@
-Scizor @ Scizorite  
+Spring Rouge (Scizor) @ Scizorite  
 Ability: Light Metal  
 EVs: 248 HP / 44 Atk / 16 Def / 200 SpD  
 Impish Nature  
@@ -7,7 +7,7 @@ Impish Nature
 - Roost  
 - Swords Dance  
 
-Talonflame @ Sharp Beak  
+Phoenix (Talonflame) @ Sharp Beak  
 Ability: Gale Wings  
 EVs: 248 HP / 252 Atk / 8 Spe  
 Adamant Nature  
@@ -16,7 +16,7 @@ Adamant Nature
 - Swords Dance  
 - Taunt  
 
-Raikou @ Leftovers  
+Myoisia (Raikou) @ Leftovers  
 Ability: Pressure  
 EVs: 112 HP / 144 SpA / 252 Spe  
 Timid Nature  
@@ -26,7 +26,7 @@ IVs: 2 Atk / 30 Def
 - Calm Mind  
 - Substitute  
 
-Garchomp @ Rocky Helmet  
+Interstice of gams (Garchomp) @ Rocky Helmet  
 Ability: Rough Skin  
 EVs: 252 HP / 164 Def / 92 Spe  
 Impish Nature  
@@ -35,7 +35,7 @@ Impish Nature
 - Toxic  
 - Stealth Rock  
 
-Latios (M) @ Life Orb  
+Meteor of magic (Latios) (M) @ Life Orb  
 Ability: Levitate  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
@@ -45,7 +45,7 @@ IVs: 0 Atk
 - Recover  
 - Defog  
 
-Azumarill @ Choice Band  
+うさぎ大爆発 (Azumarill) @ Choice Band  
 Ability: Huge Power  
 EVs: 168 HP / 252 Atk / 4 Def / 84 Spe  
 Adamant Nature  

@@ -1,4 +1,4 @@
-Scizor @ Scizorite  
+Spring Rouge (Scizor) @ Scizorite  
 Ability: Light Metal  
 EVs: 248 HP / 44 Atk / 16 Def / 200 SpD  
 Impish Nature  
@@ -7,7 +7,7 @@ Impish Nature
 - Roost  
 - Swords Dance  
 
-Gliscor @ Toxic Orb  
+Fall in the Dark (Gliscor) @ Toxic Orb  
 Ability: Poison Heal  
 EVs: 244 HP / 8 Def / 200 SpD / 56 Spe  
 Careful Nature  
@@ -16,7 +16,7 @@ Careful Nature
 - Roost  
 - Swords Dance  
 
-Magnezone @ Choice Scarf  
+FlipFlop (Magnezone) @ Choice Scarf  
 Ability: Magnet Pull  
 EVs: 4 Def / 252 SpA / 252 Spe  
 Timid Nature  
@@ -26,7 +26,7 @@ IVs: 2 Atk / 30 SpA / 30 Spe
 - Flash Cannon  
 - Hidden Power [Fire]  
 
-Hippowdon @ Leftovers  
+Desert Years (Hippowdon) @ Leftovers  
 Ability: Sand Stream  
 EVs: 252 HP / 144 Def / 112 SpD  
 Impish Nature  
@@ -35,7 +35,7 @@ Impish Nature
 - Slack Off  
 - Stealth Rock  
 
-Latios (M) @ Life Orb  
+Meteor of magic (Latios) (M) @ Life Orb  
 Ability: Levitate  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
@@ -45,7 +45,7 @@ IVs: 0 Atk
 - Recover  
 - Defog  
 
-Azumarill @ Choice Band  
+うさぎ大爆発 (Azumarill) @ Choice Band  
 Ability: Huge Power  
 EVs: 168 HP / 252 Atk / 4 Def / 84 Spe  
 Adamant Nature  
