@@ -36,13 +36,13 @@ Adamant Nature
 - Pursuit  
 - Superpower  
 
-Garchomp @ Rocky Helmet  
-Ability: Rough Skin  
-EVs: 252 HP / 164 Def / 92 Spe  
+Hippowdon @ Leftovers  
+Ability: Sand Force  
+EVs: 252 HP / 144 Def / 112 SpD  
 Impish Nature  
 - Earthquake  
-- Dragon Tail  
-- Fire Blast  
+- Stone Edge  
+- Slack Off  
 - Stealth Rock  
 
 Latios (M) @ Life Orb  

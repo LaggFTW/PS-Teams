@@ -1,10 +1,30 @@
-Lucario @ Life Orb
-Ability: Justified
-EVs: 252 Atk / 4 Def / 252 Spe
+Altaria (F) @ Altarianite
+Ability: Natural Cure
+Happiness: 0
+EVs: 248 HP / 136 Def / 96 SpD / 28 Spe
+Impish Nature
+- Frustration
+- Dragon Dance
+- Heal Bell
+- Roost
+
+Talonflame
+Ability: Gale Wings
+EVs: 248 HP / 252 Atk / 8 Spe
 Adamant Nature
-- Close Combat
-- Iron Tail
-- Extreme Speed
+- Acrobatics
+- Roost
 - Swords Dance
+- Taunt
+
+Celebi @ Leftovers
+Ability: Natural Cure
+EVs: 252 HP / 160 Def / 80 SpD / 16 Spe
+Calm Nature
+IVs: 0 Atk
+- Giga Drain
+- Recover
+- Baton Pass
+- Substitute
 
 

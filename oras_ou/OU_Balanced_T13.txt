@@ -28,7 +28,7 @@ IVs: 3 Atk / 30 SpA
 - Hidden Power [Electric]  
 
 The world of noise (Hippowdon) @ Leftovers  
-Ability: Sand Stream  
+Ability: Sand Force  
 EVs: 252 HP / 144 Def / 112 SpD  
 Impish Nature  
 - Earthquake  

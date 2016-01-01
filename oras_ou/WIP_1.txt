@@ -1,11 +1,10 @@
-Serperior @ Life Orb  
-Ability: Contrary  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
-IVs: 3 Atk / 30 SpA / 30 SpD  
-- Leaf Storm  
-- Dragon Pulse  
-- Hidden Power [Ground]  
-- Giga Drain  
+Tauros (M) @ Life Orb
+Ability: Sheer Force
+EVs: 4 Atk / 252 SpA / 252 Spe
+Naive Nature
+- Fire Blast
+- Ice Beam
+- Thunderbolt
+- Rock Slide
 
 

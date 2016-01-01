@@ -1,0 +1,58 @@
+Light of Nature (Charizard) @ Charizardite X  
+Ability: Blaze  
+EVs: 104 HP / 220 Atk / 184 Spe  
+Jolly Nature  
+- Flare Blitz  
+- Dragon Claw  
+- Dragon Dance  
+- Roost  
+
+Trick Shooter (Thundurus) (M) @ Life Orb  
+Ability: Prankster  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 Def  
+- Thunderbolt  
+- Grass Knot  
+- Hidden Power [Ice]  
+- Thunder Wave  
+
+Airstream (Latias) (F) @ Life Orb  
+Ability: Levitate  
+EVs: 72 HP / 184 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Recover  
+- Defog  
+- Healing Wish  
+
+Cardinal Red (Bisharp) @ Assault Vest  
+Ability: Defiant  
+EVs: 192 HP / 220 Atk / 96 Spe  
+Adamant Nature  
+- Pursuit  
+- Knock Off  
+- Sucker Punch  
+- Iron Head  
+
+Overflow (Keldeo) @ Choice Scarf  
+Ability: Justified  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 3 Atk / 30 SpA  
+- Hydro Pump  
+- Secret Sword  
+- Scald  
+- Hidden Power [Electric]  
+
+Gust of Wind (Landorus-Therian) (M) @ Rocky Helmet  
+Ability: Intimidate  
+EVs: 248 HP / 252 Def / 8 SpD  
+Impish Nature  
+- Earthquake  
+- Stone Edge  
+- U-turn  
+- Stealth Rock  
+
+

@@ -1,0 +1,59 @@
+Charizard @ Charizardite X  
+Ability: Blaze  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Flare Blitz  
+- Dragon Claw  
+- Roost  
+- Dragon Dance  
+
+Breloom @ Life Orb  
+Ability: Technician  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+IVs: 29 HP  
+- Mach Punch  
+- Bullet Seed  
+- Rock Tomb  
+- Spore  
+
+Starmie @ Life Orb  
+Ability: Natural Cure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 29 HP / 0 Atk  
+- Hydro Pump  
+- Psychic  
+- Ice Beam  
+- Rapid Spin  
+
+Klefki @ Leftovers  
+Ability: Prankster  
+EVs: 248 HP / 8 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Flash Cannon  
+- Spikes  
+- Thunder Wave  
+- Fairy Lock  
+
+Landorus-Therian (M) @ Soft Sand  
+Ability: Intimidate  
+EVs: 72 HP / 252 Atk / 184 Spe  
+Adamant Nature  
+- Earthquake  
+- Stone Edge  
+- U-turn  
+- Stealth Rock  
+
+Lucario @ Life Orb  
+Ability: Inner Focus  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+IVs: 29 HP  
+- Close Combat  
+- Iron Tail  
+- Extreme Speed  
+- Swords Dance  
+
+

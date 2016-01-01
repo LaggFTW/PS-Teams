@@ -1,5 +1,5 @@
 Rapture (Altaria) @ Altarianite  
-Ability: Natural Cure  
+Ability: Cloud Nine  
 EVs: 248 HP / 136 Def / 96 SpD / 28 Spe  
 Impish Nature  
 - Facade  
@@ -28,7 +28,7 @@ IVs: 3 Atk / 30 SpA
 - Hidden Power [Electric]  
 
 The world of noise (Hippowdon) @ Leftovers  
-Ability: Sand Force  
+Ability: Sand Stream  
 EVs: 252 HP / 144 Def / 112 SpD  
 Impish Nature  
 - Earthquake  
@@ -42,7 +42,7 @@ EVs: 248 HP / 252 SpD / 8 Spe
 Careful Nature  
 - Iron Head  
 - Roost  
-- Defog  
+- Spikes  
 - Whirlwind  
 
 Broken puzzle (Bisharp) @ Assault Vest  

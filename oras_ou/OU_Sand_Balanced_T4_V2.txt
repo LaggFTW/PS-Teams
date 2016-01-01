@@ -1,25 +1,25 @@
 Lopunny (F) @ Lopunnite  
 Ability: Limber  
-EVs: 252 Atk / 4 SpD / 252 Spe  
+EVs: 252 Atk / 4 Def / 252 Spe  
 Jolly Nature  
 - Fake Out  
 - Return  
 - High Jump Kick  
 - Quick Attack  
 
-Tyranitar @ Smooth Rock  
+Tyranitar @ Chople Berry  
 Ability: Sand Stream  
 EVs: 248 HP / 80 Def / 180 SpD  
-Impish Nature  
+Relaxed Nature  
 - Pursuit  
-- Crunch  
 - Stone Edge  
+- Ice Beam  
 - Stealth Rock  
 
 Excadrill @ Air Balloon  
 Ability: Sand Rush  
 EVs: 252 Atk / 4 SpD / 252 Spe  
-Adamant Nature  
+Jolly Nature  
 - Earthquake  
 - Iron Head  
 - Swords Dance  
@@ -27,7 +27,7 @@ Adamant Nature
 
 Amoonguss @ Black Sludge  
 Ability: Regenerator  
-EVs: 252 HP / 160 Def / 96 SpD  
+EVs: 252 HP / 252 Def / 4 SpD  
 Bold Nature  
 IVs: 2 Atk / 30 SpA / 30 Spe  
 - Giga Drain  
@@ -37,7 +37,7 @@ IVs: 2 Atk / 30 SpA / 30 Spe
 
 Rotom-Wash @ Leftovers  
 Ability: Levitate  
-EVs: 248 HP / 252 Def / 8 Spe  
+EVs: 248 HP / 252 Def / 8 SpD  
 Bold Nature  
 IVs: 0 Atk  
 - Volt Switch  
@@ -45,13 +45,13 @@ IVs: 0 Atk
 - Will-O-Wisp  
 - Pain Split  
 
-Skarmory @ Rocky Helmet  
-Ability: Sturdy  
-EVs: 248 HP / 252 SpD / 8 Spe  
-Careful Nature  
-- Iron Head  
-- Roost  
-- Spikes  
+Tornadus-Therian (M) @ Life Orb  
+Ability: Regenerator  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Hurricane  
+- Knock Off  
+- U-turn  
 - Taunt  
 
 

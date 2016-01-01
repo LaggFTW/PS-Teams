@@ -1,0 +1,59 @@
+Snake (Serperior) (F) @ Life Orb  
+Ability: Contrary  
+Shiny: Yes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Leaf Storm  
+- Dragon Pulse  
+- Hidden Power [Fire]  
+- Giga Drain  
+
+Ougi (Tyranitar) (F) @ Chople Berry  
+Ability: Sand Stream  
+Shiny: Yes  
+EVs: 248 HP / 80 Def / 180 SpD  
+Relaxed Nature  
+- Pursuit  
+- Stone Edge  
+- Ice Beam  
+- Stealth Rock  
+
+Crab (Excadrill) (F) @ Life Orb  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Iron Head  
+- Swords Dance  
+- Rapid Spin  
+
+Snail (Slowbro) (F) @ Leftovers  
+Ability: Regenerator  
+EVs: 248 HP / 232 Def / 28 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Psyshock  
+- Slack Off  
+- Thunder Wave  
+
+Phoenix (Skarmory) (F) @ Rocky Helmet  
+Ability: Sturdy  
+EVs: 248 HP / 8 Def / 252 SpD  
+Careful Nature  
+- Iron Head  
+- Roost  
+- Spikes  
+- Whirlwind  
+
+Acerola (Charizard) (F) @ Charizardite X  
+Ability: Blaze  
+EVs: 248 HP / 100 SpD / 160 Spe  
+Careful Nature  
+- Flare Blitz  
+- Earthquake  
+- Roost  
+- Will-O-Wisp  
+
+

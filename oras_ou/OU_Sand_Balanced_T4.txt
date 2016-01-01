@@ -1,6 +1,6 @@
 Lopunny (F) @ Lopunnite  
 Ability: Limber  
-EVs: 252 Atk / 4 SpD / 252 Spe  
+EVs: 252 Atk / 4 Def / 252 Spe  
 Jolly Nature  
 - Fake Out  
 - Return  
@@ -10,10 +10,10 @@ Jolly Nature
 Tyranitar @ Smooth Rock  
 Ability: Sand Stream  
 EVs: 248 HP / 80 Def / 180 SpD  
-Impish Nature  
+Relaxed Nature  
 - Pursuit  
-- Crunch  
 - Stone Edge  
+- Ice Beam  
 - Stealth Rock  
 
 Excadrill @ Air Balloon  
@@ -29,15 +29,15 @@ Amoonguss @ Black Sludge
 Ability: Regenerator  
 EVs: 252 HP / 160 Def / 96 SpD  
 Bold Nature  
-IVs: 0 Atk  
+IVs: 2 Atk / 30 SpA / 30 Spe  
 - Giga Drain  
 - Clear Smog  
+- Hidden Power [Fire]  
 - Spore  
-- Stun Spore  
 
 Rotom-Wash @ Leftovers  
 Ability: Levitate  
-EVs: 248 HP / 252 Def / 8 Spe  
+EVs: 248 HP / 252 Def / 8 SpD  
 Bold Nature  
 IVs: 0 Atk  
 - Volt Switch  

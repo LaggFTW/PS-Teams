@@ -1,20 +1,59 @@
-Altaria @ Altarianite  
-Ability: Natural Cure  
-Happiness: 0  
+Gardevoir (F) @ Gardevoirite  
+Ability: Trace  
+Shiny: Yes  
+EVs: 16 HP / 8 Def / 232 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Psyshock  
+- Focus Blast  
+- Taunt  
+
+Garchomp (M) @ Rocky Helmet  
+Ability: Rough Skin  
+EVs: 240 HP / 176 Def / 92 Spe  
+Impish Nature  
+- Earthquake  
+- Dragon Tail  
+- Fire Blast  
+- Stealth Rock  
+
+Jirachi @ Choice Scarf  
+Ability: Serene Grace  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
-- Frustration  
-- Earthquake  
-- Dragon Dance  
-- Roost  
+- Iron Head  
+- Heart Stamp  
+- U-turn  
+- Healing Wish  
 
-Feraligatr @ Life Orb  
-Ability: Sheer Force  
-EVs: 252 Atk / 4 Def / 252 Spe  
-Jolly Nature  
-- Waterfall  
-- Crunch  
-- Ice Punch  
-- Dragon Dance  
+Landorus-Therian (M) @ Earth Plate  
+Ability: Intimidate  
+EVs: 24 HP / 252 Atk / 232 Spe  
+Adamant Nature  
+- Earthquake  
+- Stone Edge  
+- Swords Dance  
+- Rock Polish  
+
+Latios (M) @ Life Orb  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 29 HP / 0 Atk / 30 SpA / 30 Spe  
+- Draco Meteor  
+- Psychic  
+- Hidden Power [Fire]  
+- Recover  
+
+Keldeo-Resolute @ Choice Specs  
+Ability: Justified  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Secret Sword  
+- Scald  
+- Icy Wind  
 
 

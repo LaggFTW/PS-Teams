@@ -1,5 +1,5 @@
 Rapture (Altaria) @ Altarianite  
-Ability: Natural Cure  
+Ability: Cloud Nine  
 EVs: 248 HP / 136 Def / 96 SpD / 28 Spe  
 Impish Nature  
 - Facade  
