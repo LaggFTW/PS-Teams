@@ -47,7 +47,7 @@ IVs: 0 Atk
 - Will-O-Wisp  
 - Pain Split  
 
-Power of Wind (Tornadus-Therian) @ Life Orb  
+Power of Wind (Tornadus-Therian) (M) @ Life Orb  
 Ability: Regenerator  
 EVs: 4 Atk / 252 SpA / 252 Spe  
 Hasty Nature  
