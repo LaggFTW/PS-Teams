@@ -1,0 +1,58 @@
+Hoopa-Unbound @ Choice Scarf  
+Ability: Magician  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Dark Pulse  
+- Focus Blast  
+- Nasty Plot  
+
+Excadrill @ Choice Scarf  
+Ability: Mold Breaker  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Iron Head  
+- Swords Dance  
+- Rapid Spin  
+
+Klefki @ Light Clay  
+Ability: Prankster  
+EVs: 248 HP / 8 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Foul Play  
+- Reflect  
+- Light Screen  
+- Magic Room  
+
+Garchomp @ Rocky Helmet  
+Ability: Rough Skin  
+EVs: 240 HP / 176 Def / 92 Spe  
+Impish Nature  
+- Earthquake  
+- Dragon Tail  
+- Fire Blast  
+- Stealth Rock  
+
+Jirachi @ Choice Scarf  
+Ability: Serene Grace  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Iron Head  
+- Magic Room  
+- U-turn  
+- Healing Wish  
+
+Keldeo @ Choice Scarf  
+Ability: Justified  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Secret Sword  
+- Scald  
+- Calm Mind  
+
+

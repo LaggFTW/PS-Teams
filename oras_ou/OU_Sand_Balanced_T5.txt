@@ -1,6 +1,5 @@
-Snake (Serperior) (F) @ Life Orb  
+Clear Rose (Serperior) @ Life Orb  
 Ability: Contrary  
-Shiny: Yes  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 3 Atk / 30 SpA / 30 SpD  
@@ -9,9 +8,8 @@ IVs: 3 Atk / 30 SpA / 30 SpD
 - Hidden Power [Ground]  
 - Giga Drain  
 
-Ougi (Tyranitar) (F) @ Chople Berry  
+A null set (Tyranitar) @ Chople Berry  
 Ability: Sand Stream  
-Shiny: Yes  
 EVs: 248 HP / 80 Def / 180 SpD  
 Relaxed Nature  
 - Pursuit  
@@ -19,7 +17,7 @@ Relaxed Nature
 - Ice Beam  
 - Stealth Rock  
 
-Crab (Excadrill) (F) @ Life Orb  
+All Out (Excadrill) @ Life Orb  
 Ability: Sand Rush  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
@@ -28,7 +26,7 @@ Jolly Nature
 - Swords Dance  
 - Rapid Spin  
 
-Snail (Slowbro) (F) @ Leftovers  
+Skittish Trooper (Slowbro) @ Leftovers  
 Ability: Regenerator  
 EVs: 248 HP / 232 Def / 28 SpD  
 Bold Nature  
@@ -38,7 +36,7 @@ IVs: 0 Atk
 - Slack Off  
 - Thunder Wave  
 
-Phoenix (Skarmory) (F) @ Rocky Helmet  
+Knife & Clocked (Skarmory) @ Rocky Helmet  
 Ability: Sturdy  
 EVs: 248 HP / 8 Def / 252 SpD  
 Careful Nature  
@@ -47,7 +45,7 @@ Careful Nature
 - Spikes  
 - Whirlwind  
 
-Acerola (Charizard) (F) @ Charizardite X  
+Chiasma (Charizard) @ Charizardite X  
 Ability: Blaze  
 EVs: 248 HP / 100 SpD / 160 Spe  
 Careful Nature  
