@@ -1,5 +1,6 @@
-Lopunny (F) @ Lopunnite  
+High jump love (Lopunny) (F) @ Lopunnite  
 Ability: Limber  
+Shiny: Yes  
 EVs: 252 Atk / 4 Def / 252 Spe  
 Jolly Nature  
 - Fake Out  
@@ -7,8 +8,9 @@ Jolly Nature
 - High Jump Kick  
 - Quick Attack  
 
-Tyranitar @ Smooth Rock  
+Sepia (Tyranitar) @ Smooth Rock  
 Ability: Sand Stream  
+Shiny: Yes  
 EVs: 248 HP / 80 Def / 180 SpD  
 Relaxed Nature  
 - Pursuit  
@@ -16,7 +18,7 @@ Relaxed Nature
 - Ice Beam  
 - Stealth Rock  
 
-Excadrill @ Air Balloon  
+Epicurean (Excadrill) @ Air Balloon  
 Ability: Sand Rush  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Adamant Nature  
@@ -25,7 +27,7 @@ Adamant Nature
 - Swords Dance  
 - Rapid Spin  
 
-Amoonguss @ Black Sludge  
+Dream bottom (Amoonguss) @ Black Sludge  
 Ability: Regenerator  
 EVs: 252 HP / 160 Def / 96 SpD  
 Bold Nature  
@@ -35,7 +37,7 @@ IVs: 2 Atk / 30 SpA / 30 Spe
 - Hidden Power [Fire]  
 - Spore  
 
-Rotom-Wash @ Leftovers  
+The world of noise (Rotom-Wash) @ Leftovers  
 Ability: Levitate  
 EVs: 248 HP / 252 Def / 8 SpD  
 Bold Nature  
@@ -45,7 +47,7 @@ IVs: 0 Atk
 - Will-O-Wisp  
 - Pain Split  
 
-Skarmory @ Rocky Helmet  
+monochrome (Skarmory) @ Rocky Helmet  
 Ability: Sturdy  
 EVs: 248 HP / 252 SpD / 8 Spe  
 Careful Nature  
