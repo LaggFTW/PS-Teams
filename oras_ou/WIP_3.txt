@@ -1,0 +1,19 @@
+Kyurem-Black @ Life Orb  
+Ability: Teravolt  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Ice Beam  
+- Fusion Bolt  
+- Earth Power  
+- Roost  
+
+Metagross @ Assault Vest  
+Ability: Clear Body  
+EVs: 252 HP / 160 Atk / 96 SpD  
+Adamant Nature  
+- Pursuit  
+- Meteor Mash  
+- Bullet Punch  
+- Earthquake  
+
+

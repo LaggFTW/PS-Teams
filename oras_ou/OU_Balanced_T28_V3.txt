@@ -1,0 +1,60 @@
+Snake (Serperior) (F) @ Leftovers  
+Ability: Contrary  
+Shiny: Yes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Leaf Storm  
+- Dragon Pulse  
+- Hidden Power [Fire]  
+- Glare  
+
+Phoenix (Talonflame) (F) @ Leftovers  
+Ability: Gale Wings  
+EVs: 248 HP / 252 SpD / 8 Spe  
+Careful Nature  
+- Brave Bird  
+- Roost  
+- Will-O-Wisp  
+- Swords Dance  
+
+Monkey (Hippowdon) (F) @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 144 Def / 112 SpD  
+Impish Nature  
+- Earthquake  
+- Whirlwind  
+- Slack Off  
+- Stealth Rock  
+
+Snail (Slowbro) (F) @ Slowbronite  
+Ability: Regenerator  
+EVs: 252 HP / 80 Def / 176 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Psyshock  
+- Slack Off  
+- Calm Mind  
+
+Cat (Clefable) (F) @ Leftovers  
+Ability: Unaware  
+EVs: 248 HP / 164 Def / 96 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Heal Bell  
+- Wish  
+- Protect  
+
+Ougi (Mandibuzz) (F) @ Leftovers  
+Ability: Overcoat  
+EVs: 248 HP / 244 Def / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Foul Play  
+- Roost  
+- Toxic  
+- Defog  
+
+
