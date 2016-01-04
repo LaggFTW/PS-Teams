@@ -46,7 +46,7 @@ IVs: 0 Spe
 - Leech Seed  
 - Stealth Rock  
 
-Story of the End (Heracross) @ Heracronite  
+Broken puzzle (Heracross) @ Heracronite  
 Ability: Guts  
 EVs: 252 Atk / 4 Def / 252 Spe  
 Jolly Nature  
