@@ -1,0 +1,58 @@
+Regulus (Charizard) @ Charizardite X  
+Ability: Blaze  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Flare Blitz  
+- Dragon Claw  
+- Dragon Dance  
+- Roost  
+
+Fuhaku (Weavile) @ Life Orb  
+Ability: Pressure  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Ice Shard  
+- Icicle Crash  
+- Knock Off  
+- Low Kick  
+
+Star Trail (Latias) (F) @ Life Orb  
+Ability: Levitate  
+EVs: 72 HP / 184 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Recover  
+- Defog  
+- Healing Wish  
+
+Mirageland (Hippowdon) @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 240 Def / 16 SpD  
+Impish Nature  
+- Earthquake  
+- Slack Off  
+- Whirlwind  
+- Stealth Rock  
+
+Kaede (Ferrothorn) @ Leftovers  
+Ability: Iron Barbs  
+Shiny: Yes  
+EVs: 252 HP / 88 Def / 168 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Power Whip  
+- Gyro Ball  
+- Knock Off  
+- Leech Seed  
+
+Raihaku (Excadrill) @ Life Orb  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Iron Head  
+- Swords Dance  
+- Magnet Rise  
+
+

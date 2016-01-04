@@ -1,0 +1,58 @@
+Tyranitar @ Choice Band  
+Ability: Sand Stream  
+EVs: 48 HP / 252 Atk / 208 Spe  
+Adamant Nature  
+- Pursuit  
+- Crunch  
+- Stone Edge  
+- Superpower  
+
+Excadrill @ Air Balloon  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Iron Head  
+- Swords Dance  
+- Rapid Spin  
+
+Altaria @ Altarianite  
+Ability: Cloud Nine  
+Happiness: 0  
+EVs: 248 HP / 136 Def / 96 SpD / 28 Spe  
+Impish Nature  
+- Frustration  
+- Roost  
+- Dragon Dance  
+- Refresh  
+
+Keldeo-Resolute @ Mystic Water  
+Ability: Justified  
+EVs: 56 HP / 200 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Secret Sword  
+- Sleep Talk  
+- Rest  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 24 Def / 184 SpD / 56 Spe  
+Impish Nature  
+- Earthquake  
+- Knock Off  
+- Roost  
+- Stealth Rock  
+
+Magnezone @ Choice Scarf  
+Ability: Magnet Pull  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Volt Switch  
+- Thunderbolt  
+- Flash Cannon  
+- Hidden Power [Fire]  
+
+

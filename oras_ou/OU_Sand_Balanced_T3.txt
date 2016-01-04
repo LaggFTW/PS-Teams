@@ -1,57 +1,59 @@
-Charizard @ Charizardite X
-Ability: Blaze
-EVs: 72 HP / 220 Atk / 216 Spe
-Jolly Nature
-- Flare Blitz
-- Dragon Claw
-- Dragon Dance
-- Roost
+Excadrill @ Life Orb  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+IVs: 29 HP  
+- Earthquake  
+- Iron Head  
+- Swords Dance  
+- Rapid Spin  
 
-Feraligatr @ Life Orb
-Ability: Sheer Force
-EVs: 252 Atk / 4 Def / 252 Spe
-Jolly Nature
-- Waterfall
-- Crunch
-- Ice Punch
-- Dragon Dance
+Tyranitar @ Chople Berry  
+Ability: Sand Stream  
+EVs: 248 HP / 88 Atk / 92 Def / 80 SpD  
+Brave Nature  
+- Pursuit  
+- Stone Edge  
+- Fire Blast  
+- Stealth Rock  
 
-Celebi @ Leftovers
-Ability: Natural Cure
-EVs: 252 HP / 148 Def / 108 Spe
-Bold Nature
-IVs: 0 Atk
-- Giga Drain
-- Recover
-- Baton Pass
-- Healing Wish
+Keldeo-Resolute @ Choice Scarf  
+Ability: Justified  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Secret Sword  
+- Scald  
+- Icy Wind  
 
-Klefki @ Leftovers
-Ability: Prankster
-EVs: 248 HP / 252 Def / 8 SpA
-Bold Nature
-IVs: 0 Atk
-- Dazzling Gleam
-- Spikes
-- Thunder Wave
-- Heal Block
+Latios (M) @ Life Orb  
+Ability: Levitate  
+EVs: 32 HP / 224 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Psyshock  
+- Calm Mind  
+- Recover  
 
-Hippowdon @ Leftovers
-Ability: Sand Stream
-EVs: 252 HP / 192 Def / 64 SpD
-Impish Nature
-- Earthquake
-- Stone Edge
-- Stealth Rock
-- Slack Off
+Skarmory @ Leftovers  
+Ability: Sturdy  
+EVs: 248 HP / 252 SpD / 8 Spe  
+Careful Nature  
+- Taunt  
+- Roost  
+- Spikes  
+- Whirlwind  
 
-Excadrill @ Life Orb
-Ability: Sand Rush
-EVs: 252 Atk / 4 Def / 252 Spe
-Adamant Nature
-- Earthquake
-- Iron Head
-- Rock Slide
-- Rapid Spin
+Venusaur @ Venusaurite  
+Ability: Chlorophyll  
+EVs: 240 HP / 248 SpA / 20 Spe  
+Modest Nature  
+IVs: 0 Atk / 30 SpA / 30 Spe  
+- Giga Drain  
+- Sludge Bomb  
+- Hidden Power [Fire]  
+- Synthesis  
 
 

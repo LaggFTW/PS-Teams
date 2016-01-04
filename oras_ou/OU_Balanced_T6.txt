@@ -1,0 +1,58 @@
+Sableye @ Sablenite  
+Ability: Prankster  
+EVs: 248 HP / 164 Def / 96 SpD  
+Careful Nature  
+- Knock Off  
+- Recover  
+- Will-O-Wisp  
+- Toxic  
+
+Talonflame  
+Ability: Gale Wings  
+EVs: 248 HP / 32 Def / 220 SpD / 8 Spe  
+Careful Nature  
+- Acrobatics  
+- Roost  
+- Will-O-Wisp  
+- Swords Dance  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 240 Def / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Calm Mind  
+- Rest  
+- Sleep Talk  
+
+Hippowdon @ Leftovers  
+Ability: Sand Force  
+EVs: 252 HP / 144 Def / 112 SpD  
+Impish Nature  
+- Earthquake  
+- Slack Off  
+- Stealth Rock  
+- Whirlwind  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 148 Def / 108 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Power Whip  
+- Leech Seed  
+- Spikes  
+- Protect  
+
+Latios (M) @ Life Orb  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 29 HP / 0 Atk  
+- Draco Meteor  
+- Psyshock  
+- Recover  
+- Defog  
+
+

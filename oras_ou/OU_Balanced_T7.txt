@@ -1,0 +1,58 @@
+Alakazam @ Alakazite  
+Ability: Magic Guard  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk / 30 SpA / 30 Spe  
+- Psychic  
+- Shadow Ball  
+- Focus Blast  
+- Hidden Power [Fire]  
+
+Tyranitar @ Choice Scarf  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Pursuit  
+- Crunch  
+- Stone Edge  
+- Earthquake  
+
+Manaphy @ Leftovers  
+Ability: Hydration  
+EVs: 96 HP / 160 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Psychic  
+- Tail Glow  
+- Rain Dance  
+
+Skarmory @ Shed Shell  
+Ability: Sturdy  
+EVs: 248 HP / 232 SpD / 28 Spe  
+Careful Nature  
+- Iron Head  
+- Roost  
+- Spikes  
+- Whirlwind  
+
+Clefable @ Leftovers  
+Ability: Magic Guard  
+EVs: 252 HP / 168 Def / 80 SpD / 8 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Soft-Boiled  
+- Calm Mind  
+- Thunder Wave  
+
+Garchomp @ Rocky Helmet  
+Ability: Rough Skin  
+EVs: 248 HP / 156 Def / 104 Spe  
+Impish Nature  
+- Earthquake  
+- Dragon Tail  
+- Fire Blast  
+- Stealth Rock  
+
+
