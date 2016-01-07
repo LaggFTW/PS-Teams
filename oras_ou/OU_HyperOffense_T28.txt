@@ -1,0 +1,29 @@
+Aerodactyl @ Aerodactylite  
+Ability: Pressure  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- Aerial Ace  
+- Ice Fang  
+- Fire Fang  
+
+Magnezone @ Choice Scarf  
+Ability: Magnet Pull  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Volt Switch  
+- Thunderbolt  
+- Flash Cannon  
+- Hidden Power [Fire]  
+
+Azumarill @ Choice Band  
+Ability: Huge Power  
+EVs: 172 HP / 252 Atk / 84 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Waterfall  
+- Play Rough  
+- Knock Off  
+
+
