@@ -1,0 +1,58 @@
+Ninetales @ Heat Rock  
+Ability: Drought  
+EVs: 248 HP / 100 Def / 160 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Will-O-Wisp  
+- Hypnosis  
+- Rest  
+
+Diancie @ Diancite  
+Ability: Clear Body  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Moonblast  
+- Diamond Storm  
+- Earth Power  
+- Protect  
+
+Venusaur @ Life Orb  
+Ability: Chlorophyll  
+EVs: 72 HP / 4 Def / 252 SpA / 180 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Giga Drain  
+- Sludge Bomb  
+- Hidden Power [Fire]  
+- Growth  
+
+Latias (F) @ Kasib Berry  
+Ability: Levitate  
+EVs: 72 HP / 184 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Recover  
+- Defog  
+- Healing Wish  
+
+Cobalion @ Leftovers  
+Ability: Justified  
+EVs: 144 HP / 112 Atk / 252 Spe  
+Jolly Nature  
+- Iron Head  
+- Close Combat  
+- Taunt  
+- Stealth Rock  
+
+Dragonite @ Choice Band  
+Ability: Multiscale  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Outrage  
+- Extreme Speed  
+- Fire Punch  
+- Superpower  
+
+
