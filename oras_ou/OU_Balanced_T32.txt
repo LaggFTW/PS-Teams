@@ -1,0 +1,59 @@
+Scizor @ Scizorite  
+Ability: Light Metal  
+EVs: 248 HP / 44 Atk / 16 Def / 200 SpD  
+Impish Nature  
+- Bullet Punch  
+- U-turn  
+- Roost  
+- Swords Dance  
+
+Volcarona @ Lum Berry  
+Ability: Flame Body  
+EVs: 72 HP / 252 SpA / 184 Spe  
+Timid Nature  
+IVs: 3 Atk / 30 SpA / 30 SpD  
+- Fire Blast  
+- Giga Drain  
+- Hidden Power [Ground]  
+- Quiver Dance  
+
+Tyranitar @ Choice Scarf  
+Ability: Sand Stream  
+Shiny: Yes  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Pursuit  
+- Crunch  
+- Stone Edge  
+- Superpower  
+
+Landorus-Therian (M) @ Leftovers  
+Ability: Intimidate  
+EVs: 248 HP / 200 Def / 52 SpD / 8 Spe  
+Impish Nature  
+- Earthquake  
+- Stone Edge  
+- U-turn  
+- Stealth Rock  
+
+Keldeo-Resolute @ Choice Specs  
+Ability: Justified  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 3 Atk / 30 SpA  
+- Hydro Pump  
+- Secret Sword  
+- Scald  
+- Hidden Power [Electric]  
+
+Latios (M) @ Life Orb  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Psyshock  
+- Recover  
+- Defog  
+
+

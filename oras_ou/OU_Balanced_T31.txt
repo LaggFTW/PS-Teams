@@ -1,0 +1,59 @@
+Terrakion @ Choice Band  
+Ability: Justified  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Stone Edge  
+- X-Scissor  
+- Iron Head  
+
+Garchomp @ Life Orb  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Outrage  
+- Fire Fang  
+- Swords Dance  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 252 SpD / 8 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Lava Plume  
+- Earth Power  
+- Toxic  
+- Stealth Rock  
+
+Clefable @ Leftovers  
+Ability: Magic Guard  
+EVs: 252 HP / 164 Def / 92 SpD  
+Relaxed Nature  
+IVs: 0 Atk / 0 Spe  
+- Moonblast  
+- Soft-Boiled  
+- Calm Mind  
+- Thunder Wave  
+
+Thundurus (M) @ Leftovers  
+Ability: Prankster  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 Def  
+- Thunderbolt  
+- Hidden Power [Ice]  
+- Grass Knot  
+- Thunder Wave  
+
+Slowbro @ Slowbronite  
+Ability: Regenerator  
+EVs: 252 HP / 80 Def / 176 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Psyshock  
+- Slack Off  
+- Calm Mind  
+
+
