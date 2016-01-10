@@ -21,6 +21,7 @@ All Out (Excadrill) @ Life Orb
 Ability: Sand Rush  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
+IVs: 29 HP  
 - Earthquake  
 - Iron Head  
 - Swords Dance  

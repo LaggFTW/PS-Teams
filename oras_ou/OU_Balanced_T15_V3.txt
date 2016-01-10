@@ -11,6 +11,7 @@ Fuhaku (Weavile) @ Life Orb
 Ability: Pressure  
 EVs: 252 Atk / 4 Def / 252 Spe  
 Jolly Nature  
+IVs: 29 HP  
 - Ice Shard  
 - Icicle Crash  
 - Knock Off  
@@ -50,6 +51,7 @@ Raihaku (Excadrill) @ Life Orb
 Ability: Sand Rush  
 EVs: 252 Atk / 4 Def / 252 Spe  
 Jolly Nature  
+IVs: 29 HP  
 - Earthquake  
 - Iron Head  
 - Swords Dance  

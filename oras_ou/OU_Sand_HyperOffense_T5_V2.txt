@@ -1,0 +1,58 @@
+Pinsir @ Pinsirite  
+Ability: Hyper Cutter  
+Happiness: 0  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Quick Attack  
+- Frustration  
+- Close Combat  
+- Swords Dance  
+
+Tyranitar @ Choice Scarf  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Pursuit  
+- Crunch  
+- Stone Edge  
+- Superpower  
+
+Excadrill @ Air Balloon  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Iron Head  
+- Rapid Spin  
+- Swords Dance  
+
+Latios (M) @ Life Orb  
+Ability: Levitate  
+EVs: 32 HP / 224 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Psyshock  
+- Calm Mind  
+- Recover  
+
+Garchomp @ Roseli Berry  
+Ability: Rough Skin  
+EVs: 240 HP / 176 Def / 92 Spe  
+Impish Nature  
+- Earthquake  
+- Dragon Tail  
+- Toxic  
+- Stealth Rock  
+
+Rotom-Wash @ Leftovers  
+Ability: Levitate  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Hydro Pump  
+- Will-O-Wisp  
+- Pain Split  
+
+
