@@ -22,6 +22,7 @@ Epicurean (Kabutops) @ Life Orb
 Ability: Swift Swim  
 EVs: 252 Atk / 4 Def / 252 Spe  
 Adamant Nature  
+IVs: 29 HP  
 - Aqua Jet  
 - Waterfall  
 - Stone Edge  
