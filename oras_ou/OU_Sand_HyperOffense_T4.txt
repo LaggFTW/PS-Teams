@@ -32,8 +32,8 @@ Tyranitar @ Chople Berry
 Ability: Sand Stream  
 EVs: 248 HP / 252 Def / 8 SpD  
 Relaxed Nature  
-- Stone Edge  
 - Pursuit  
+- Stone Edge  
 - Ice Beam  
 - Stealth Rock  
 
