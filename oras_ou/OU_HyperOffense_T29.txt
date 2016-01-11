@@ -1,0 +1,59 @@
+Weavile @ Life Orb  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+IVs: 29 HP  
+- Ice Shard  
+- Icicle Crash  
+- Knock Off  
+- Swords Dance  
+
+Bisharp @ Lum Berry  
+Ability: Defiant  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Sucker Punch  
+- Knock Off  
+- Iron Head  
+- Swords Dance  
+
+Garchomp @ Rocky Helmet  
+Ability: Rough Skin  
+EVs: 240 HP / 176 Def / 92 Spe  
+Impish Nature  
+- Earthquake  
+- Dragon Tail  
+- Fire Blast  
+- Stealth Rock  
+
+Venusaur @ Venusaurite  
+Ability: Overgrow  
+EVs: 248 HP / 168 Def / 72 SpA / 20 Spe  
+Bold Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Giga Drain  
+- Sludge Bomb  
+- Hidden Power [Fire]  
+- Synthesis  
+
+Heatran @ Air Balloon  
+Ability: Flash Fire  
+EVs: 244 HP / 12 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Magma Storm  
+- Earth Power  
+- Taunt  
+- Toxic  
+
+Latias (F) @ Life Orb  
+Ability: Levitate  
+EVs: 72 HP / 184 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Psyshock  
+- Defog  
+- Healing Wish  
+
+

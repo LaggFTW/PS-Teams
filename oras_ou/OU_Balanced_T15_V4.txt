@@ -25,7 +25,7 @@ Timid Nature
 IVs: 29 HP / 0 Atk  
 - Draco Meteor  
 - Psyshock  
-- Calm Mind  
+- Thunderbolt  
 - Recover  
 
 Desert Years (Hippowdon) @ Leftovers  
@@ -33,9 +33,9 @@ Ability: Sand Stream
 EVs: 252 HP / 192 Def / 64 SpD  
 Impish Nature  
 - Earthquake  
+- Stone Edge  
 - Whirlwind  
 - Slack Off  
-- Stealth Rock  
 
 Clockup Flowers (Ferrothorn) @ Leftovers  
 Ability: Iron Barbs  
@@ -45,7 +45,7 @@ IVs: 0 Spe
 - Power Whip  
 - Knock Off  
 - Leech Seed  
-- Spikes  
+- Stealth Rock  
 
 Myoisia (Excadrill) @ Life Orb  
 Ability: Sand Rush  

@@ -1,28 +1,56 @@
-Lopunny @ Lopunnite
-Ability: Limber
-EVs: 252 Atk / 4 Def / 252 Spe
-Jolly Nature
-- Fake Out
-- Return
-- High Jump Kick
-- Healing Wish
+Lopunny (F) @ Lopunnite  
+Ability: Limber  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Return  
+- High Jump Kick  
+- Baton Pass  
+- Healing Wish  
 
-Azumarill @ Sitrus Berry
-Ability: Huge Power
-EVs: 92 HP / 252 Atk / 164 Spe
-Adamant Nature
-- Aqua Jet
-- Play Rough
-- Knock Off
-- Belly Drum
+Slurpuff @ Sitrus Berry  
+Ability: Unburden  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Play Rough  
+- Drain Punch  
+- Thief  
+- Belly Drum  
 
-Darmanitan @ Salac Berry
-Ability: Sheer Force
-EVs: 4 HP / 252 Atk / 252 Spe
-Jolly Nature
-- Fire Punch
-- Rock Slide
-- Earthquake
-- Belly Drum
+Darmanitan @ Salac Berry  
+Ability: Sheer Force  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Fire Punch  
+- Rock Slide  
+- Substitute  
+- Belly Drum  
+
+Azumarill @ Sitrus Berry  
+Ability: Huge Power  
+EVs: 92 HP / 252 Atk / 164 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Play Rough  
+- Knock Off  
+- Belly Drum  
+
+Jirachi @ Choice Scarf  
+Ability: Serene Grace  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Iron Head  
+- U-turn  
+- Trick  
+- Healing Wish  
+
+Latias (F) @ Life Orb  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Recover  
+- Defog  
+- Healing Wish  
 
 

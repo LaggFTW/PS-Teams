@@ -1,58 +1,58 @@
-Scizor @ Scizorite
-Ability: Light Metal
-EVs: 252 HP / 4 Atk / 252 Def
-Impish Nature
-- Bullet Punch
-- U-turn
-- Roost
-- Defog
+Pinsir @ Pinsirite  
+Ability: Hyper Cutter  
+Happiness: 0  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Quick Attack  
+- Frustration  
+- Close Combat  
+- Swords Dance  
 
-Talonflame @ Sharp Beak
-Ability: Gale Wings
-EVs: 252 Atk / 4 SpD / 252 Spe
-Jolly Nature
-- Brave Bird
-- Flare Blitz
-- U-turn
-- Roost
+Hippowdon @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 144 Def / 112 SpD  
+Impish Nature  
+- Earthquake  
+- Whirlwind  
+- Stealth Rock  
+- Slack Off  
 
-Azumarill @ Sitrus Berry
-Ability: Huge Power
-EVs: 92 HP / 252 Atk / 164 Spe
-Adamant Nature
-- Aqua Jet
-- Play Rough
-- Knock Off
-- Belly Drum
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 100 Def / 156 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Power Whip  
+- Gyro Ball  
+- Leech Seed  
+- Spikes  
 
-Celebi @ Leftovers
-Ability: Natural Cure
-EVs: 252 HP / 240 SpD / 16 Spe
-Calm Nature
-IVs: 0 Atk
-- Psychic
-- Recover
-- Baton Pass
-- Substitute
+Excadrill @ Air Balloon  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Iron Head  
+- Swords Dance  
+- Rapid Spin  
 
-Rotom-Wash @ Leftovers
-Ability: Levitate
-EVs: 252 HP / 252 Def / 4 SpA
-Bold Nature
-IVs: 0 Atk
-- Volt Switch
-- Hydro Pump
-- Will-O-Wisp
-- Pain Split
+Latios (M) @ Life Orb  
+Ability: Levitate  
+EVs: 32 HP / 224 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Psyshock  
+- Calm Mind  
+- Recover  
 
-Landorus (M) @ Life Orb
-Ability: Sheer Force
-EVs: 252 SpA / 4 SpD / 252 Spe
-Timid Nature
-IVs: 0 Atk
-- Earth Power
-- Sludge Wave
-- Psychic
-- Stealth Rock
+Talonflame  
+Ability: Gale Wings  
+EVs: 248 HP / 252 SpD / 8 Spe  
+Careful Nature  
+- Acrobatics  
+- Roost  
+- Will-O-Wisp  
+- Bulk Up  
 
 

@@ -1,11 +1,12 @@
 Rapture (Altaria) @ Altarianite  
 Ability: Cloud Nine  
-EVs: 248 HP / 72 Def / 160 SpD / 28 Spe  
-Careful Nature  
-- Facade  
+Happiness: 0  
+EVs: 248 HP / 76 Def / 156 SpD / 28 Spe  
+Impish Nature  
+- Frustration  
 - Roost  
 - Dragon Dance  
-- Cotton Guard  
+- Refresh  
 
 Coward (Gliscor) @ Toxic Orb  
 Ability: Poison Heal  
@@ -35,7 +36,7 @@ Impish Nature
 - Stealth Rock  
 - Whirlwind  
 
-camouflage (Ferrothorn) @ Leftovers  
+camouflage (Ferrothorn) @ Chople Berry  
 Ability: Iron Barbs  
 EVs: 252 HP / 100 Def / 156 SpD  
 Sassy Nature  
