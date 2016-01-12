@@ -13,8 +13,8 @@ Ability: Sand Stream
 EVs: 252 HP / 144 Def / 112 SpD  
 Impish Nature  
 - Earthquake  
+- Stone Edge  
 - Whirlwind  
-- Stealth Rock  
 - Slack Off  
 
 Ferrothorn @ Leftovers  
@@ -25,26 +25,27 @@ IVs: 0 Spe
 - Power Whip  
 - Gyro Ball  
 - Leech Seed  
-- Spikes  
+- Stealth Rock  
 
-Excadrill @ Air Balloon  
-Ability: Sand Rush  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Adamant Nature  
-- Earthquake  
-- Iron Head  
-- Swords Dance  
-- Rapid Spin  
+Keldeo @ Choice Specs  
+Ability: Justified  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Secret Sword  
+- Scald  
+- Icy Wind  
 
 Latios (M) @ Life Orb  
 Ability: Levitate  
-EVs: 32 HP / 224 SpA / 252 Spe  
+EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
 - Draco Meteor  
 - Psyshock  
-- Calm Mind  
 - Recover  
+- Defog  
 
 Talonflame  
 Ability: Gale Wings  
@@ -53,6 +54,6 @@ Careful Nature
 - Acrobatics  
 - Roost  
 - Will-O-Wisp  
-- Bulk Up  
+- Taunt  
 
 
