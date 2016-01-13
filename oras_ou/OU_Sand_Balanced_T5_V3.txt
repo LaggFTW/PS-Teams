@@ -1,0 +1,57 @@
+Clear Rose (Serperior) @ Miracle Seed  
+Ability: Contrary  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 3 Atk / 30 SpA / 30 SpD  
+- Leaf Storm  
+- Dragon Pulse  
+- Hidden Power [Ground]  
+- Giga Drain  
+
+A null set (Tyranitar) @ Chople Berry  
+Ability: Sand Stream  
+EVs: 248 HP / 80 Def / 180 SpD  
+Relaxed Nature  
+- Pursuit  
+- Stone Edge  
+- Ice Beam  
+- Stealth Rock  
+
+All Out (Excadrill) @ Air Balloon  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Iron Head  
+- Swords Dance  
+- Rapid Spin  
+
+Skittish Trooper (Slowbro) @ Leftovers  
+Ability: Regenerator  
+EVs: 248 HP / 232 Def / 28 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Psyshock  
+- Slack Off  
+- Thunder Wave  
+
+Knife & Clocked (Skarmory) @ Leftovers  
+Ability: Sturdy  
+EVs: 248 HP / 8 Def / 252 SpD  
+Careful Nature  
+- Iron Head  
+- Roost  
+- Spikes  
+- Whirlwind  
+
+Chiasma (Charizard) @ Charizardite X  
+Ability: Blaze  
+EVs: 248 HP / 100 SpD / 160 Spe  
+Careful Nature  
+- Flare Blitz  
+- Dragon Claw  
+- Roost  
+- Will-O-Wisp  
+
+

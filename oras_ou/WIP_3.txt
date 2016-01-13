@@ -1,0 +1,11 @@
+Togekiss @ Leftovers  
+Ability: Serene Grace  
+EVs: 248 HP / 84 Def / 176 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Air Slash  
+- Roost  
+- Nasty Plot  
+- Heal Bell  
+
+
