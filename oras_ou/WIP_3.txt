@@ -1,11 +1,10 @@
-Togekiss @ Leftovers  
-Ability: Serene Grace  
-EVs: 248 HP / 84 Def / 176 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Air Slash  
-- Roost  
-- Nasty Plot  
-- Heal Bell  
+Breloom @ Lansat Berry  
+Ability: Technician  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Mach Punch  
+- Bullet Seed  
+- Natural Gift  
+- Swords Dance  
 
 

@@ -1,19 +1,59 @@
-Charizard @ Charizardite X
-Ability: Blaze
-EVs: 144 HP / 252 Atk / 112 Spe
-Adamant Nature
-- Flare Blitz
-- Outrage
-- Swords Dance
-- Tailwind
+Lopunny (F) @ Lopunnite  
+Ability: Limber  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- Return  
+- High Jump Kick  
+- Ice Punch  
 
-Feraligatr @ Life Orb
-Ability: Sheer Force
-EVs: 252 Atk / 4 Def / 252 Spe
-Jolly Nature
-- Waterfall
-- Crunch
-- Ice Punch
-- Dragon Dance
+Togekiss @ Leftovers  
+Ability: Serene Grace  
+EVs: 248 HP / 84 Def / 176 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Air Slash  
+- Roost  
+- Nasty Plot  
+- Heal Bell  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 8 SpD / 252 Spe  
+Hasty Nature  
+IVs: 0 Atk  
+- Magma Storm  
+- Earth Power  
+- Taunt  
+- Toxic  
+
+Latias (F) @ Life Orb  
+Ability: Levitate  
+EVs: 72 HP / 184 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Psyshock  
+- Recover  
+- Defog  
+
+Landorus-Therian (M) @ Rocky Helmet  
+Ability: Intimidate  
+EVs: 248 HP / 252 Def / 8 SpD  
+Impish Nature  
+- Earthquake  
+- Stone Edge  
+- U-turn  
+- Stealth Rock  
+
+Keldeo @ Choice Scarf  
+Ability: Justified  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 3 Atk / 30 SpA  
+- Hydro Pump  
+- Secret Sword  
+- Scald  
+- Hidden Power [Electric]  
 
 

@@ -13,6 +13,7 @@ All Out (Excadrill) @ Life Orb
 Ability: Sand Rush  
 EVs: 252 Atk / 4 Def / 252 Spe  
 Adamant Nature  
+IVs: 29 HP  
 - Earthquake  
 - Iron Head  
 - Rock Slide  

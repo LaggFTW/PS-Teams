@@ -1,10 +1,56 @@
 Excadrill @ Choice Scarf  
 Ability: Mold Breaker  
-EVs: 252 Atk / 4 SpD / 252 Spe  
+EVs: 252 Atk / 4 Def / 252 Spe  
 Jolly Nature  
 - Earthquake  
 - Iron Head  
 - Rock Slide  
 - Rapid Spin  
+
+Tornadus-Therian (M) @ Life Orb  
+Ability: Regenerator  
+EVs: 56 Atk / 200 SpA / 252 Spe  
+Naive Nature  
+- Hurricane  
+- Heat Wave  
+- Superpower  
+- Knock Off  
+
+Garchomp @ Rocky Helmet  
+Ability: Rough Skin  
+EVs: 248 HP / 196 Def / 64 SpD  
+Impish Nature  
+- Earthquake  
+- Dragon Tail  
+- Toxic  
+- Stealth Rock  
+
+Breloom @ Focus Sash  
+Ability: Technician  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Mach Punch  
+- Bullet Seed  
+- Force Palm  
+- Spore  
+
+Azumarill @ Lum Berry  
+Ability: Huge Power  
+EVs: 168 HP / 252 Atk / 4 Def / 84 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Waterfall  
+- Play Rough  
+- Knock Off  
+
+Manectric @ Manectite  
+Ability: Lightning Rod  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 Def  
+- Volt Switch  
+- Thunderbolt  
+- Flamethrower  
+- Hidden Power [Ice]  
 
 
