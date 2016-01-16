@@ -1,0 +1,59 @@
+Aerodactyl @ Aerodactylite  
+Ability: Pressure  
+EVs: 168 HP / 124 Atk / 216 Spe  
+Jolly Nature  
+- Pursuit  
+- Aerial Ace  
+- Stone Edge  
+- Roost  
+
+Keldeo @ Leftovers  
+Ability: Justified  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Secret Sword  
+- Calm Mind  
+- Substitute  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 20 SpD / 240 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Magma Storm  
+- Earth Power  
+- Taunt  
+- Toxic  
+
+Latias (F) @ Life Orb  
+Ability: Levitate  
+EVs: 72 HP / 184 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Recover  
+- Defog  
+- Healing Wish  
+
+Landorus-Therian (M) @ Soft Sand  
+Ability: Intimidate  
+EVs: 248 HP / 252 Def / 8 SpD  
+Impish Nature  
+- Earthquake  
+- Stone Edge  
+- U-turn  
+- Hidden Power [Ice]  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 100 Def / 156 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Power Whip  
+- Gyro Ball  
+- Leech Seed  
+- Stealth Rock  
+
+
