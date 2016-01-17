@@ -1,0 +1,59 @@
+Latias (F) @ Latiasite  
+Ability: Levitate  
+EVs: 248 HP / 68 Def / 192 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Thunderbolt  
+- Recover  
+- Thunder Wave  
+
+Tyranitar @ Choice Scarf  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Pursuit  
+- Crunch  
+- Stone Edge  
+- Superpower  
+
+Skarmory @ Leftovers  
+Ability: Sturdy  
+EVs: 248 HP / 8 Def / 252 SpD  
+Careful Nature  
+- Iron Head  
+- Roost  
+- Spikes  
+- Whirlwind  
+
+Keldeo @ Life Orb  
+Ability: Justified  
+EVs: 24 HP / 232 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Secret Sword  
+- Rest  
+- Sleep Talk  
+
+Reuniclus @ Leftovers  
+Ability: Magic Guard  
+EVs: 252 HP / 200 Def / 56 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Shadow Ball  
+- Recover  
+- Calm Mind  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 20 SpD / 240 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Lava Plume  
+- Toxic  
+- Taunt  
+- Stealth Rock  
+
+

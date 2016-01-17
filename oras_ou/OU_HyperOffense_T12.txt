@@ -1,38 +1,59 @@
-Gardevoir (F) @ Gardevoirite
-Ability: Trace
-EVs: 24 Def / 232 SpA / 252 Spe
-Timid Nature
-IVs: 0 Atk
-- Hyper Voice
-- Psyshock
-- Focus Blast
-- Taunt
+3L (Gardevoir) (F) @ Gardevoirite  
+Ability: Trace  
+Shiny: Yes  
+EVs: 56 HP / 4 Def / 232 SpA / 216 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Psyshock  
+- Focus Blast  
+- Taunt  
 
-Weavile @ Life Orb
-Ability: Pressure
-EVs: 252 Atk / 4 SpD / 252 Spe
-Jolly Nature
-- Ice Shard
-- Icicle Crash
-- Knock Off
-- Pursuit
+Minoshima (Bisharp) (M) @ Assault Vest  
+Ability: Defiant  
+EVs: 192 HP / 220 Atk / 96 Spe  
+Adamant Nature  
+- Pursuit  
+- Sucker Punch  
+- Knock Off  
+- Iron Head  
 
-Garchomp @ Rocky Helmet
-Ability: Rough Skin
-EVs: 252 HP / 164 Def / 92 Spe
-Impish Nature
-- Earthquake
-- Dragon Tail
-- Fire Blast
-- Stealth Rock
+yan shiba (Landorus-Therian) (M) @ Rocky Helmet  
+Ability: Intimidate  
+EVs: 248 HP / 252 Def / 8 SpD  
+Impish Nature  
+- Earthquake  
+- Stone Edge  
+- U-turn  
+- Stealth Rock  
 
-Jirachi @ Choice Scarf
-Ability: Serene Grace
-EVs: 252 Atk / 4 SpD / 252 Spe
-Jolly Nature
-- Iron Head
-- Fire Punch
-- U-turn
-- Healing Wish
+Ayakura (Latias) (F) @ Life Orb  
+Ability: Levitate  
+EVs: 72 HP / 184 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Recover  
+- Defog  
+- Healing Wish  
+
+hiro.na (Keldeo-Resolute) @ Choice Scarf  
+Ability: Justified  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 3 Atk / 30 SpA  
+- Hydro Pump  
+- Secret Sword  
+- Scald  
+- Hidden Power [Electric]  
+
+kyu (Talonflame) (M) @ Leftovers  
+Ability: Gale Wings  
+EVs: 248 HP / 252 SpD / 8 Spe  
+Careful Nature  
+- Brave Bird  
+- Roost  
+- Will-O-Wisp  
+- Bulk Up  
 
 

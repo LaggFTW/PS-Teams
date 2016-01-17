@@ -1,0 +1,57 @@
+Garchomp @ Garchompite  
+Ability: Rough Skin  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Naughty Nature  
+- Earthquake  
+- Dragon Claw  
+- Fire Blast  
+- Swords Dance  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 240 HP / 44 Def / 224 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Thunderbolt  
+- Rapid Spin  
+- Recover  
+
+Ferrothorn @ Chople Berry  
+Ability: Iron Barbs  
+EVs: 252 HP / 88 Def / 168 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Power Whip  
+- Gyro Ball  
+- Leech Seed  
+- Spikes  
+
+Talonflame @ Leftovers  
+Ability: Gale Wings  
+EVs: 248 HP / 252 SpD / 8 Spe  
+Careful Nature  
+- Brave Bird  
+- Roost  
+- Will-O-Wisp  
+- Bulk Up  
+
+Hippowdon @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 184 Def / 72 SpD  
+Impish Nature  
+- Earthquake  
+- Slack Off  
+- Stealth Rock  
+- Whirlwind  
+
+Bisharp @ Lum Berry  
+Ability: Defiant  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Sucker Punch  
+- Knock Off  
+- Iron Head  
+- Swords Dance  
+
+
