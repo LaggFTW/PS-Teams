@@ -3195,6 +3195,66 @@ IVs: 2 Atk / 30 SpA / 30 Spe
 - Hidden Power [Fire]  
 
 
+=== [ou] Impulse M-Manec Sand Offense ===
+
+Manectric @ Manectite  
+Ability: Lightning Rod  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 Def  
+- Volt Switch  
+- Thunderbolt  
+- Flamethrower  
+- Hidden Power [Ice]  
+
+Tyranitar @ Chople Berry  
+Ability: Sand Stream  
+EVs: 248 HP / 96 Def / 164 SpD  
+Careful Nature  
+- Pursuit  
+- Crunch  
+- Stone Edge  
+- Stealth Rock  
+
+Excadrill @ Air Balloon  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Iron Head  
+- Swords Dance  
+- Rapid Spin  
+
+Keldeo @ Choice Specs  
+Ability: Justified  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 Def / 30 SpD  
+- Hydro Pump  
+- Secret Sword  
+- Scald  
+- Hidden Power [Bug]  
+
+Amoonguss @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Giga Drain  
+- Clear Smog  
+- Spore  
+- Stun Spore  
+
+Talonflame @ Leftovers  
+Ability: Gale Wings  
+EVs: 248 HP / 244 SpD / 16 Spe  
+Careful Nature  
+- Brave Bird  
+- Roost  
+- Will-O-Wisp  
+- Taunt  
+
+
 === [ou] M-Alt Roserade Bulky Offense ===
 
 Altaria @ Altarianite  
