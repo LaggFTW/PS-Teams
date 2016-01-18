@@ -4,8 +4,8 @@ EVs: 252 Atk / 4 Def / 252 Spe
 Jolly Nature  
 - Close Combat  
 - Stone Edge  
-- X-Scissor  
 - Iron Head  
+- Quick Attack  
 
 Garchomp @ Life Orb  
 Ability: Rough Skin  
@@ -18,8 +18,8 @@ Jolly Nature
 
 Heatran @ Leftovers  
 Ability: Flash Fire  
-EVs: 248 HP / 252 SpD / 8 Spe  
-Calm Nature  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
 IVs: 0 Atk  
 - Lava Plume  
 - Earth Power  

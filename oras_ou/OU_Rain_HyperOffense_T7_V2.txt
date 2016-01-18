@@ -32,6 +32,7 @@ Myosotis alpestris (Latias) (F) @ Life Orb
 Ability: Levitate  
 EVs: 72 HP / 184 SpA / 252 Spe  
 Timid Nature  
+IVs: 0 Atk  
 - Draco Meteor  
 - Psyshock  
 - Recover  
