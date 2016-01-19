@@ -3316,6 +3316,67 @@ Adamant Nature
 - Swords Dance  
 
 
+=== [ou] M-Pinsir NP Thundy Offense ===
+
+Pinsir @ Pinsirite  
+Ability: Hyper Cutter  
+Happiness: 0  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Quick Attack  
+- Frustration  
+- Close Combat  
+- Swords Dance  
+
+Thundurus @ Life Orb  
+Ability: Prankster  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 Def  
+- Thunderbolt  
+- Hidden Power [Ice]  
+- Focus Blast  
+- Nasty Plot  
+
+Tyranitar @ Chople Berry  
+Ability: Sand Stream  
+EVs: 248 HP / 80 Def / 180 SpD  
+Impish Nature  
+- Pursuit  
+- Stone Edge  
+- Toxic  
+- Stealth Rock  
+
+Keldeo @ Choice Scarf  
+Ability: Justified  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 3 Atk / 30 SpA  
+- Hydro Pump  
+- Secret Sword  
+- Scald  
+- Hidden Power [Electric]  
+
+Latias @ Life Orb  
+Ability: Levitate  
+EVs: 72 HP / 184 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Psyshock  
+- Recover  
+- Healing Wish  
+
+Skarmory @ Rocky Helmet  
+Ability: Sturdy  
+EVs: 248 HP / 8 Def / 252 SpD  
+Careful Nature  
+- Iron Head  
+- Roost  
+- Defog  
+- Whirlwind  
+
+
 === [ou] Lando-Heat 1 ===
 
 Landorus-Therian @ Expert Belt  

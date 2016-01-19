@@ -1,30 +1,59 @@
-Pinsir @ Pinsirite
-Ability: Hyper Cutter
-Happiness: 0
-EVs: 252 Atk / 4 Def / 252 Spe
-Adamant Nature
-- Frustration
-- Feint
-- Close Combat
-- Swords Dance
+Pinsir @ Pinsirite  
+Ability: Hyper Cutter  
+Happiness: 0  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Quick Attack  
+- Frustration  
+- Close Combat  
+- Swords Dance  
 
-Starmie @ Life Orb
-Ability: Analytic
-EVs: 4 Def / 252 SpA / 252 Spe
-Timid Nature
-- Hydro Pump
-- Psyshock
-- Hidden Power [Fire]
-- Rapid Spin
+Thundurus (M) @ Life Orb  
+Ability: Prankster  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 Def  
+- Thunderbolt  
+- Hidden Power [Ice]  
+- Focus Blast  
+- Nasty Plot  
 
-Weavile @ Life Orb
-Ability: Pressure
-EVs: 252 Atk / 4 Def / 252 Spe
-Jolly Nature
-IVs: 29 HP
-- Ice Shard
-- Icicle Crash
-- Knock Off
-- Low Kick
+Tyranitar @ Chople Berry  
+Ability: Sand Stream  
+EVs: 248 HP / 80 Def / 180 SpD  
+Impish Nature  
+- Pursuit  
+- Stone Edge  
+- Toxic  
+- Stealth Rock  
+
+Keldeo @ Choice Scarf  
+Ability: Justified  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 3 Atk / 30 SpA  
+- Hydro Pump  
+- Secret Sword  
+- Scald  
+- Hidden Power [Electric]  
+
+Latias (F) @ Life Orb  
+Ability: Levitate  
+EVs: 72 HP / 184 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Psyshock  
+- Recover  
+- Healing Wish  
+
+Skarmory @ Rocky Helmet  
+Ability: Sturdy  
+EVs: 248 HP / 8 Def / 252 SpD  
+Careful Nature  
+- Iron Head  
+- Roost  
+- Defog  
+- Whirlwind  
 
 
