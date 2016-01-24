@@ -1,0 +1,58 @@
+Aerodactyl @ Aerodactylite  
+Ability: Pressure  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Aerial Ace  
+- Stone Edge  
+- Ice Fang  
+- Pursuit  
+
+Keldeo @ Life Orb  
+Ability: Justified  
+EVs: 24 HP / 232 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Secret Sword  
+- Rest  
+- Sleep Talk  
+
+Heatran @ Power Herb  
+Ability: Flash Fire  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Magma Storm  
+- Solar Beam  
+- Taunt  
+- Stealth Rock  
+
+Mew @ Leftovers  
+Ability: Synchronize  
+EVs: 252 HP / 216 SpD / 40 Spe  
+Careful Nature  
+- Knock Off  
+- Soft-Boiled  
+- Will-O-Wisp  
+- Taunt  
+
+Landorus-Therian (M) @ Leftovers  
+Ability: Intimidate  
+EVs: 104 HP / 216 Atk / 188 Spe  
+Adamant Nature  
+- Earthquake  
+- Stone Edge  
+- Swords Dance  
+- Rock Polish  
+
+Raikou @ Leftovers  
+Ability: Pressure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 Def  
+- Volt Switch  
+- Thunderbolt  
+- Hidden Power [Ice]  
+- Calm Mind  
+
+

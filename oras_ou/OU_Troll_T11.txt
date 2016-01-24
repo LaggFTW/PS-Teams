@@ -1,0 +1,57 @@
+Landorus-Therian (M) @ Expert Belt  
+Ability: Intimidate  
+EVs: 8 HP / 64 Def / 252 SpA / 184 Spe  
+Rash Nature  
+- Earthquake  
+- Grass Knot  
+- Hidden Power [Ice]  
+- U-turn  
+
+Charizard @ Charizardite X  
+Ability: Blaze  
+EVs: 104 HP / 220 Atk / 184 Spe  
+Jolly Nature  
+- Flare Blitz  
+- Dragon Claw  
+- Roost  
+- Dragon Dance  
+
+Latios (M) @ Life Orb  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Psyshock  
+- Recover  
+- Defog  
+
+Keldeo @ Choice Scarf  
+Ability: Justified  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 3 Atk / 30 SpA  
+- Hydro Pump  
+- Secret Sword  
+- Scald  
+- Hidden Power [Electric]  
+
+Metagross @ Assault Vest  
+Ability: Clear Body  
+EVs: 248 HP / 160 Atk / 92 SpD / 8 Spe  
+Adamant Nature  
+- Bullet Punch  
+- Meteor Mash  
+- Earthquake  
+- Pursuit  
+
+Garchomp @ Rocky Helmet  
+Ability: Rough Skin  
+EVs: 240 HP / 176 Def / 92 Spe  
+Impish Nature  
+- Earthquake  
+- Dragon Tail  
+- Toxic  
+- Stealth Rock  
+
+

@@ -1,0 +1,57 @@
+Lopunny (F) @ Lopunnite  
+Ability: Limber  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Fake Out  
+- Quick Attack  
+- Return  
+- High Jump Kick  
+
+Rotom-Wash @ Leftovers  
+Ability: Levitate  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Hydro Pump  
+- Will-O-Wisp  
+- Pain Split  
+
+Tyranitar @ Chople Berry  
+Ability: Sand Stream  
+EVs: 248 HP / 80 Def / 180 SpD  
+Relaxed Nature  
+- Pursuit  
+- Stone Edge  
+- Ice Beam  
+- Stealth Rock  
+
+Excadrill @ Air Balloon  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Iron Head  
+- Rapid Spin  
+- Swords Dance  
+
+Tornadus-Therian (M) @ Life Orb  
+Ability: Regenerator  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Hurricane  
+- Knock Off  
+- U-turn  
+- Taunt  
+
+Amoonguss @ Black Sludge  
+Ability: Regenerator  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk / 30 SpA / 30 Spe  
+- Giga Drain  
+- Clear Smog  
+- Hidden Power [Fire]  
+- Spore  
+
+
