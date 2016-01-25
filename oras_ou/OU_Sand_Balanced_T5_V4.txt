@@ -23,7 +23,6 @@ Crab (Excadrill) (F) @ Air Balloon
 Ability: Sand Rush  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Adamant Nature  
-IVs: 29 HP  
 - Earthquake  
 - Iron Head  
 - Swords Dance  
