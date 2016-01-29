@@ -36,7 +36,7 @@ IVs: 0 Atk
 - Scald  
 - Psyshock  
 - Slack Off  
-- Thunder Wave  
+- Toxic  
 
 Phoenix (Skarmory) (F) @ Leftovers  
 Ability: Sturdy  

@@ -35,7 +35,7 @@ IVs: 0 Atk
 - Scald  
 - Psyshock  
 - Slack Off  
-- Thunder Wave  
+- Toxic  
 
 Knife & Clocked (Skarmory) @ Rocky Helmet  
 Ability: Sturdy  
